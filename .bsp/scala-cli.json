@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\ANJLEEN TIRKEY\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "D:\\VIT Bhopal\\VS Code\\Scala\\.scala-build\\ide-options-v2.json",
+    "D:\\VIT Bhopal\\VS Code\\Scala"
+  ],
+  "version": "1.0.6",
+  "bspVersion": "2.1.0-M6",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
