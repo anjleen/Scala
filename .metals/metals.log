@@ -3395,3 +3395,40 @@ WARNING: null
 Dec 15, 2023 12:31:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
 WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
 2023.12.15 12:31:53 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.15 12:31:55 INFO  time: compiled Scala_bd2c96d2de in 4.46s
+2023.12.15 12:31:56 INFO  Cancelling compilation on scala-cli server
+2023.12.15 12:31:58 INFO  compiling scala_bd2c96d2de (19 scala sources)
+2023.12.15 12:31:59 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.15 12:31:59 INFO  time: compiled Scala_bd2c96d2de in 2.25s
+2023.12.15 12:32:00 INFO  time: Imported build in 3.64s
+2023.12.15 12:32:01 INFO  time: indexed workspace in 1.15s
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+Dec 15, 2023 12:33:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
