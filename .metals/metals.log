@@ -3438,3 +3438,1177 @@ INFO: Unsupported notification method: $/setTrace
 2023.12.15 12:44:20 INFO  shutting down Metals
 2023.12.15 12:44:20 INFO  Shut down connection with build server.
 2023.12.15 12:44:20 INFO  Exiting server
+2023.12.18 11:56:48 INFO  Started: Metals version 1.2.0 in folders 'D:\VIT Bhopal\VS Code\Scala' for client Visual Studio Code 1.85.1.
+2023.12.18 11:56:51 WARN  No build session currently active to reload.
+2023.12.18 11:56:51 INFO  Attempting to connect to the build server...
+2023.12.18 11:56:51 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.18 11:56:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Dec 18, 2023 11:56:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:56:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 18, 2023 11:56:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:56:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:56:52 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.18 11:56:53 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.18 11:56:53 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.18 11:56:53 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.18 11:56:56 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.18 11:56:57 INFO  no build target found for D:\VIT Bhopal\VS Code\Scala\FuncObj.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.18 11:57:01 INFO  BSP server: Starting compilation server
+2023.12.18 11:57:11 INFO  time: Connected to build server in 20s
+2023.12.18 11:57:11 INFO  Connected to Build server: scala-cli v1.0.6
+2023.12.18 11:57:11 INFO  time: Imported build in 0.38s
+2023.12.18 11:57:13 INFO  compiling scala_bd2c96d2de (19 scala sources)
+2023.12.18 11:57:13 INFO  time: indexed workspace in 1.29s
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:14 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.18 11:57:24 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.18 11:57:24 INFO  time: compiled Scala_bd2c96d2de in 12s
+2023.12.18 11:57:26 INFO  compiling scala_bd2c96d2de (19 scala sources)
+2023.12.18 11:57:29 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.18 11:57:29 INFO  time: compiled Scala_bd2c96d2de in 3.2s
+2023.12.18 11:57:29 INFO  time: Imported build in 3.56s
+2023.12.18 11:57:30 INFO  time: indexed workspace in 1.02s
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 11:57:31 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.18 12:04:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:04:53 INFO  Cancelling compilation on scala-cli server
+2023.12.18 12:04:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:04:53 INFO  time: indexed workspace in 0.52s
+2023.12.18 12:04:54 INFO  compiling scala_bd2c96d2de (20 scala sources)
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:04:54 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 18, 2023 12:04:55 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:04:55 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 18, 2023 12:04:55 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:04:55 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.18 12:04:55 INFO  Cancelling compilation on scala-cli server
+2023.12.18 12:04:56 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:04:59 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:04:59 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:05:00 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.18 12:05:00 INFO  time: compiled Scala_bd2c96d2de in 6.09s
+2023.12.18 12:05:00 INFO  compiling scala_bd2c96d2de (20 scala sources)
+2023.12.18 12:05:02 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.18 12:05:02 INFO  time: compiled Scala_bd2c96d2de in 1.98s
+2023.12.18 12:05:03 INFO  time: Imported build in 8.06s
+2023.12.18 12:05:03 INFO  Cancelling compilation on scala-cli server
+2023.12.18 12:05:03 INFO  time: indexed workspace in 0.57s
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:04 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.18 12:05:04 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:04 INFO  time: compiled Scala_bd2c96d2de in 1ms
+Dec 18, 2023 12:05:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+Dec 18, 2023 12:05:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+2023.12.18 12:05:05 INFO  time: Imported build in 1.26s
+2023.12.18 12:05:06 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:06 INFO  time: indexed workspace in 1.36s
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 18, 2023 12:05:06 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.18 12:05:07 INFO  time: compiled Scala_bd2c96d2de in 1.23s
+2023.12.18 12:05:07 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:08 INFO  time: compiled Scala_bd2c96d2de in 0.34s
+2023.12.18 12:05:08 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:08 INFO  time: compiled Scala_bd2c96d2de in 83ms
+2023.12.18 12:05:10 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:10 INFO  time: compiled Scala_bd2c96d2de in 91ms
+2023.12.18 12:05:10 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:10 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:05:12 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:12 INFO  time: compiled Scala_bd2c96d2de in 0.43s
+2023.12.18 12:05:13 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:05:13 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:13 INFO  time: compiled Scala_bd2c96d2de in 0.17s
+2023.12.18 12:05:17 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:17 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:05:17 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:17 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:05:18 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:18 INFO  time: compiled Scala_bd2c96d2de in 0.17s
+2023.12.18 12:05:18 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:18 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:05:20 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:20 INFO  time: compiled Scala_bd2c96d2de in 0.4s
+2023.12.18 12:05:23 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:05:23 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:23 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:05:23 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:24 INFO  time: compiled Scala_bd2c96d2de in 0.24s
+2023.12.18 12:05:24 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:24 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:05:26 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:05:26 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:26 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:05:26 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:27 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:05:29 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:05:29 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:29 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:05:31 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:31 INFO  time: compiled Scala_bd2c96d2de in 0.32s
+2023.12.18 12:05:33 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:05:33 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:33 INFO  time: compiled Scala_bd2c96d2de in 85ms
+2023.12.18 12:05:34 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:05:36 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:36 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:05:36 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:05:40 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:05:40 INFO  time: compiled Scala_bd2c96d2de in 0.39s
+2023.12.18 12:08:03 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:08:03 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:08:03 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:08:03 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:09:44 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:09:44 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:44 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:09:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:47 INFO  time: compiled Scala_bd2c96d2de in 0.21s
+2023.12.18 12:09:48 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:09:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:47 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:09:49 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:49 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:09:49 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:49 INFO  time: compiled Scala_bd2c96d2de in 93ms
+2023.12.18 12:09:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:50 INFO  time: compiled Scala_bd2c96d2de in 71ms
+2023.12.18 12:09:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:50 INFO  time: compiled Scala_bd2c96d2de in 65ms
+2023.12.18 12:09:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:51 INFO  time: compiled Scala_bd2c96d2de in 64ms
+2023.12.18 12:09:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:51 INFO  time: compiled Scala_bd2c96d2de in 56ms
+2023.12.18 12:09:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:52 INFO  time: compiled Scala_bd2c96d2de in 0.17s
+2023.12.18 12:09:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:52 INFO  time: compiled Scala_bd2c96d2de in 79ms
+2023.12.18 12:09:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:52 INFO  time: compiled Scala_bd2c96d2de in 63ms
+2023.12.18 12:09:56 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:56 INFO  time: compiled Scala_bd2c96d2de in 82ms
+2023.12.18 12:09:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:57 INFO  time: compiled Scala_bd2c96d2de in 69ms
+2023.12.18 12:09:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:57 INFO  time: compiled Scala_bd2c96d2de in 61ms
+2023.12.18 12:09:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:09:57 INFO  time: compiled Scala_bd2c96d2de in 63ms
+2023.12.18 12:12:38 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:12:38 INFO  time: compiled Scala_bd2c96d2de in 96ms
+2023.12.18 12:12:41 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:12:41 INFO  time: compiled Scala_bd2c96d2de in 75ms
+2023.12.18 12:12:59 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:12:59 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:12:59 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:12:59 INFO  time: compiled Scala_bd2c96d2de in 87ms
+Dec 18, 2023 12:13:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 374
+2023.12.18 12:13:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:02 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:13:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:02 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:13:03 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:03 INFO  time: compiled Scala_bd2c96d2de in 0.18s
+2023.12.18 12:13:03 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:03 INFO  time: compiled Scala_bd2c96d2de in 78ms
+2023.12.18 12:13:06 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:06 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:13:06 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:06 INFO  time: compiled Scala_bd2c96d2de in 65ms
+2023.12.18 12:13:13 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:13 INFO  time: compiled Scala_bd2c96d2de in 0.17s
+2023.12.18 12:13:13 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:13 INFO  time: compiled Scala_bd2c96d2de in 86ms
+2023.12.18 12:13:14 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:14 INFO  time: compiled Scala_bd2c96d2de in 0.28s
+2023.12.18 12:13:14 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:14 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:13:15 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:15 INFO  time: compiled Scala_bd2c96d2de in 83ms
+2023.12.18 12:13:18 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:18 INFO  time: compiled Scala_bd2c96d2de in 89ms
+2023.12.18 12:13:18 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:18 INFO  time: compiled Scala_bd2c96d2de in 99ms
+2023.12.18 12:13:19 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:19 INFO  time: compiled Scala_bd2c96d2de in 76ms
+2023.12.18 12:13:21 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:21 INFO  time: compiled Scala_bd2c96d2de in 99ms
+2023.12.18 12:13:21 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:21 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.18 12:13:22 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:22 INFO  time: compiled Scala_bd2c96d2de in 87ms
+2023.12.18 12:13:22 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:22 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:13:24 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:24 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:13:24 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:24 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.18 12:13:25 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:26 INFO  time: compiled Scala_bd2c96d2de in 1.15s
+2023.12.18 12:13:26 INFO  compiling scala_bd2c96d2de (1 scala source)
+error while checking new Cat("Angela", "Persian", 5, null)
+error while checking val res0: Rational = new Cat("Angela", "Persian", 5, null)
+error while checking {
+  val res0: Rational = new Cat("Angela", "Persian", 5, null)
+  <empty>
+}
+error while checking def main(args: Array[String]): Unit =
+  {
+    val res0: Rational = new Cat("Angela", "Persian", 5, null)
+    <empty>
+  }
+error while checking  {
+  def main(args: Array[String]): Unit =
+    {
+      val res0: Rational = new Cat("Angela", "Persian", 5, null)
+      <empty>
+    }
+}
+error while checking module object demo {
+  def main(args: Array[String]): Unit =
+    {
+      val res0: Rational = new Cat("Angela", "Persian", 5, null)
+      <empty>
+    }
+}
+error while checking package <empty> {
+  class Rational(private[this] val n: Int, private[this] val d: Int) {
+    println("Created " + n + "/" + d)
+  }
+  module object demo {
+    def main(args: Array[String]): Unit =
+      {
+        val res0: Rational = new Cat("Angela", "Persian", 5, null)
+        <empty>
+      }
+  }
+}
+Dec 18, 2023 12:13:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\VIT Bhopal\VS Code\Scala\.metals\.reports\metals-full\2023-12-18\r_compiler-error_(Scala_bd2c96d2de)_12-13-27-876.md
+2023.12.18 12:13:27 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:13:28 INFO  time: compiled Scala_bd2c96d2de in 1.06s
+error while checking new Cat("Angela", null)
+error while checking val res0: Rational = new Cat("Angela", null)
+error while checking {
+  val res0: Rational = new Cat("Angela", null)
+  <empty>
+}
+error while checking def main(args: Array[String]): Unit =
+  {
+    val res0: Rational = new Cat("Angela", null)
+    <empty>
+  }
+error while checking  {
+  def main(args: Array[String]): Unit =
+    {
+      val res0: Rational = new Cat("Angela", null)
+      <empty>
+    }
+}
+error while checking module object demo {
+  def main(args: Array[String]): Unit =
+    {
+      val res0: Rational = new Cat("Angela", null)
+      <empty>
+    }
+}
+error while checking package <empty> {
+  class Rational(private[this] val n: Int, private[this] val d: Int) {
+    println("Created " + n + "/" + d)
+  }
+  module object demo {
+    def main(args: Array[String]): Unit =
+      {
+        val res0: Rational = new Cat("Angela", null)
+        <empty>
+      }
+  }
+}
+Dec 18, 2023 12:13:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\VIT Bhopal\VS Code\Scala\.metals\.reports\metals-full\2023-12-18\r_compiler-error_(Scala_bd2c96d2de)_12-13-28-529.md
+2023.12.18 12:13:28 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:13:28 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:28 INFO  time: compiled Scala_bd2c96d2de in 0.27s
+2023.12.18 12:13:29 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:29 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:13:29 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:29 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:13:31 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:31 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:13:31 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:31 INFO  time: compiled Scala_bd2c96d2de in 83ms
+2023.12.18 12:13:32 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:32 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:13:32 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:33 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:13:33 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:34 INFO  time: compiled Scala_bd2c96d2de in 0.64s
+2023.12.18 12:13:34 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:34 INFO  time: compiled Scala_bd2c96d2de in 0.49s
+2023.12.18 12:13:37 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:13:37 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.18 12:15:14 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:14 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:15:14 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:14 INFO  time: compiled Scala_bd2c96d2de in 0.17s
+2023.12.18 12:15:15 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:15 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:15:15 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:15 INFO  time: compiled Scala_bd2c96d2de in 75ms
+2023.12.18 12:15:15 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:15 INFO  time: compiled Scala_bd2c96d2de in 74ms
+2023.12.18 12:15:56 INFO  file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala:7:25: stale bloop error: expression expected but '}' found
+    val res0: Rational = 
+                        ^
+2023.12.18 12:15:56 INFO  file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala:3:1: stale bloop error: Illegal start of toplevel definition
+new Rational(1,2)
+^^^
+2023.12.18 12:15:56 INFO  file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala:7:25: stale bloop error: expression expected but '}' found
+    val res0: Rational = 
+                        ^
+2023.12.18 12:15:56 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:15:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:57 INFO  time: compiled Scala_bd2c96d2de in 53ms
+2023.12.18 12:15:57 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:15:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:57 INFO  time: compiled Scala_bd2c96d2de in 47ms
+2023.12.18 12:15:57 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:15:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:57 INFO  time: compiled Scala_bd2c96d2de in 47ms
+2023.12.18 12:15:58 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:15:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:15:58 INFO  time: compiled Scala_bd2c96d2de in 0.29s
+2023.12.18 12:16:00 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:00 INFO  time: compiled Scala_bd2c96d2de in 0.22s
+2023.12.18 12:16:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:02 INFO  time: compiled Scala_bd2c96d2de in 0.17s
+2023.12.18 12:16:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:02 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:16:05 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:05 INFO  time: compiled Scala_bd2c96d2de in 66ms
+2023.12.18 12:16:05 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:05 INFO  time: compiled Scala_bd2c96d2de in 51ms
+2023.12.18 12:16:05 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:06 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:05 INFO  time: compiled Scala_bd2c96d2de in 50ms
+2023.12.18 12:16:06 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:06 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:16:06 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:07 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:06 INFO  time: compiled Scala_bd2c96d2de in 67ms
+2023.12.18 12:16:07 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:07 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:07 INFO  time: compiled Scala_bd2c96d2de in 61ms
+2023.12.18 12:16:08 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:08 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:08 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:08 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:16:08 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:09 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:08 INFO  time: compiled Scala_bd2c96d2de in 59ms
+2023.12.18 12:16:08 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:09 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:16:09 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:10 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:09 INFO  time: compiled Scala_bd2c96d2de in 74ms
+2023.12.18 12:16:10 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:12 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:12 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:12 INFO  time: compiled Scala_bd2c96d2de in 70ms
+2023.12.18 12:16:12 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:12 INFO  time: compiled Scala_bd2c96d2de in 78ms
+2023.12.18 12:16:13 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:13 INFO  time: compiled Scala_bd2c96d2de in 98ms
+2023.12.18 12:16:13 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:13 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:13 INFO  time: compiled Scala_bd2c96d2de in 69ms
+2023.12.18 12:16:13 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:17 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:17 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:17 INFO  time: compiled Scala_bd2c96d2de in 61ms
+2023.12.18 12:16:17 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:18 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:18 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:18 INFO  time: compiled Scala_bd2c96d2de in 71ms
+2023.12.18 12:16:19 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:18 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:18 INFO  time: compiled Scala_bd2c96d2de in 69ms
+2023.12.18 12:16:20 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:20 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:16:20 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:20 INFO  time: compiled Scala_bd2c96d2de in 57ms
+2023.12.18 12:16:20 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:21 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:21 INFO  time: compiled Scala_bd2c96d2de in 63ms
+2023.12.18 12:16:21 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:23 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:23 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:23 INFO  time: compiled Scala_bd2c96d2de in 73ms
+2023.12.18 12:16:23 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:23 INFO  time: compiled Scala_bd2c96d2de in 77ms
+2023.12.18 12:16:23 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:24 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:23 INFO  time: compiled Scala_bd2c96d2de in 57ms
+2023.12.18 12:16:24 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:33 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:33 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:33 INFO  time: compiled Scala_bd2c96d2de in 74ms
+2023.12.18 12:16:34 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:36 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:36 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:36 INFO  time: compiled Scala_bd2c96d2de in 70ms
+2023.12.18 12:16:37 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:38 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:16:38 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:38 INFO  time: compiled Scala_bd2c96d2de in 36ms
+2023.12.18 12:16:38 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:16:38 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:38 INFO  time: compiled Scala_bd2c96d2de in 46ms
+2023.12.18 12:16:38 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational.scala
+2023.12.18 12:16:38 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:39 INFO  time: compiled Scala_bd2c96d2de in 0.22s
+2023.12.18 12:16:40 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:40 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:16:41 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:41 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:41 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:16:41 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:42 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:16:42 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:42 INFO  time: compiled Scala_bd2c96d2de in 47ms
+2023.12.18 12:16:44 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:44 INFO  time: compiled Scala_bd2c96d2de in 75ms
+2023.12.18 12:16:44 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:44 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.18 12:16:45 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:45 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:16:45 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:45 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:16:46 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:46 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:46 INFO  time: compiled Scala_bd2c96d2de in 69ms
+2023.12.18 12:16:46 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:46 INFO  time: compiled Scala_bd2c96d2de in 61ms
+2023.12.18 12:16:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:47 INFO  time: compiled Scala_bd2c96d2de in 63ms
+2023.12.18 12:16:48 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:16:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:47 INFO  time: compiled Scala_bd2c96d2de in 61ms
+2023.12.18 12:16:48 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:48 INFO  time: compiled Scala_bd2c96d2de in 52ms
+2023.12.18 12:16:48 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:48 INFO  time: compiled Scala_bd2c96d2de in 0.26s
+2023.12.18 12:16:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:50 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:16:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:50 INFO  time: compiled Scala_bd2c96d2de in 50ms
+2023.12.18 12:16:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:51 INFO  time: compiled Scala_bd2c96d2de in 50ms
+2023.12.18 12:16:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:51 INFO  time: compiled Scala_bd2c96d2de in 63ms
+2023.12.18 12:16:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:52 INFO  time: compiled Scala_bd2c96d2de in 55ms
+2023.12.18 12:16:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:52 INFO  time: compiled Scala_bd2c96d2de in 51ms
+2023.12.18 12:16:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:52 INFO  time: compiled Scala_bd2c96d2de in 80ms
+2023.12.18 12:16:54 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:54 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:16:55 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:55 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:16:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:57 INFO  time: compiled Scala_bd2c96d2de in 95ms
+2023.12.18 12:16:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:57 INFO  time: compiled Scala_bd2c96d2de in 77ms
+2023.12.18 12:16:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:58 INFO  time: compiled Scala_bd2c96d2de in 71ms
+2023.12.18 12:16:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:58 INFO  time: compiled Scala_bd2c96d2de in 85ms
+2023.12.18 12:16:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:16:58 INFO  time: compiled Scala_bd2c96d2de in 66ms
+Dec 18, 2023 12:17:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 923
+2023.12.18 12:17:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:02 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:17:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:02 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:17:04 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:04 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:17:05 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:05 INFO  time: compiled Scala_bd2c96d2de in 0.17s
+2023.12.18 12:17:06 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:06 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:06 INFO  time: compiled Scala_bd2c96d2de in 52ms
+2023.12.18 12:17:06 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:08 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:08 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:08 INFO  time: compiled Scala_bd2c96d2de in 57ms
+2023.12.18 12:17:08 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:08 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:08 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:17:09 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:09 INFO  time: compiled Scala_bd2c96d2de in 55ms
+2023.12.18 12:17:09 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:09 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:09 INFO  time: compiled Scala_bd2c96d2de in 48ms
+2023.12.18 12:17:10 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:12 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:12 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:12 INFO  time: compiled Scala_bd2c96d2de in 65ms
+2023.12.18 12:17:12 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:12 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:12 INFO  time: compiled Scala_bd2c96d2de in 79ms
+2023.12.18 12:17:13 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:16 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:16 INFO  time: compiled Scala_bd2c96d2de in 58ms
+2023.12.18 12:17:16 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:16 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:16 INFO  time: compiled Scala_bd2c96d2de in 56ms
+2023.12.18 12:17:17 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:22 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:22 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:22 INFO  time: compiled Scala_bd2c96d2de in 0.21s
+2023.12.18 12:17:24 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:24 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:17:25 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:25 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:17:25 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:25 INFO  time: compiled Scala_bd2c96d2de in 58ms
+2023.12.18 12:17:25 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:26 INFO  time: compiled Scala_bd2c96d2de in 51ms
+2023.12.18 12:17:26 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:26 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:17:26 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:27 INFO  time: compiled Scala_bd2c96d2de in 0.21s
+2023.12.18 12:17:27 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:27 INFO  time: compiled Scala_bd2c96d2de in 0.21s
+2023.12.18 12:17:29 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:29 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:29 INFO  time: compiled Scala_bd2c96d2de in 0.32s
+2023.12.18 12:17:29 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:30 INFO  time: compiled Scala_bd2c96d2de in 0.29s
+2023.12.18 12:17:30 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:31 INFO  time: compiled Scala_bd2c96d2de in 0.28s
+2023.12.18 12:17:31 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:31 INFO  time: compiled Scala_bd2c96d2de in 87ms
+2023.12.18 12:17:33 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:33 INFO  time: compiled Scala_bd2c96d2de in 65ms
+2023.12.18 12:17:33 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:33 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:17:34 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:34 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:17:34 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:34 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:17:35 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:35 INFO  time: compiled Scala_bd2c96d2de in 63ms
+2023.12.18 12:17:35 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:35 INFO  time: compiled Scala_bd2c96d2de in 84ms
+2023.12.18 12:17:36 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:36 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:17:36 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:36 INFO  time: compiled Scala_bd2c96d2de in 81ms
+2023.12.18 12:17:37 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:37 INFO  time: compiled Scala_bd2c96d2de in 77ms
+2023.12.18 12:17:37 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:37 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:17:38 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:38 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:17:38 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:38 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:17:39 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:39 INFO  time: compiled Scala_bd2c96d2de in 0.23s
+2023.12.18 12:17:39 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:39 INFO  time: compiled Scala_bd2c96d2de in 71ms
+2023.12.18 12:17:40 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:40 INFO  time: compiled Scala_bd2c96d2de in 70ms
+2023.12.18 12:17:40 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:40 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:17:42 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:42 INFO  time: compiled Scala_bd2c96d2de in 94ms
+2023.12.18 12:17:42 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:42 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:17:44 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:44 INFO  time: compiled Scala_bd2c96d2de in 70ms
+2023.12.18 12:17:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:47 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:17:48 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:17:48 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:48 INFO  time: compiled Scala_bd2c96d2de in 0.18s
+2023.12.18 12:17:49 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:49 INFO  time: compiled Scala_bd2c96d2de in 85ms
+2023.12.18 12:17:49 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:49 INFO  time: compiled Scala_bd2c96d2de in 79ms
+2023.12.18 12:17:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:50 INFO  time: compiled Scala_bd2c96d2de in 83ms
+2023.12.18 12:17:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:50 INFO  time: compiled Scala_bd2c96d2de in 74ms
+2023.12.18 12:17:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:51 INFO  time: compiled Scala_bd2c96d2de in 87ms
+2023.12.18 12:17:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:51 INFO  time: compiled Scala_bd2c96d2de in 71ms
+2023.12.18 12:17:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:52 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:17:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:52 INFO  time: compiled Scala_bd2c96d2de in 85ms
+2023.12.18 12:17:54 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:54 INFO  time: compiled Scala_bd2c96d2de in 96ms
+2023.12.18 12:17:54 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:54 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:17:55 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:55 INFO  time: compiled Scala_bd2c96d2de in 98ms
+2023.12.18 12:17:55 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:55 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:17:57 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:57 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.18 12:17:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:58 INFO  time: compiled Scala_bd2c96d2de in 77ms
+2023.12.18 12:17:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:17:58 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:18:00 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed character literal
+        val x = new Rational(1,2)''
+                                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:407)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:412)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.18 12:18:00 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:18:00 INFO  time: compiled Scala_bd2c96d2de in 71ms
+2023.12.18 12:18:00 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed character literal
+        val x = new Rational(1,2)'
+                                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:407)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:412)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.18 12:18:01 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:18:01 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:18:02 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:18:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:18:02 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:18:02 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:18:03 INFO  time: compiled Scala_bd2c96d2de in 0.21s
+Dec 18, 2023 12:18:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\VIT Bhopal\VS Code\Scala\.metals\.reports\metals-full\2023-12-18\r_compiler-error_(Scala_bd2c96d2de)_12-18-04-533.md
+2023.12.18 12:18:03 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:18:03 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+Dec 18, 2023 12:26:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didOpen",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar%21/scala/Predef.scala",
+      "languageId": "scala",
+      "version": 1,
+      "text": "/*\n * Scala (https://www.scala-lang.org)\n *\n * Copyright EPFL and Lightbend, Inc.\n *\n * Licensed under Apache License 2.0\n * (http://www.apache.org/licenses/LICENSE-2.0).\n *\n * See the NOTICE file distributed with this work for\n * additional information regarding copyright ownership.\n */\n\npackage scala\n\nimport scala.language.implicitConversions\n\nimport scala.collection.{mutable, immutable, ArrayOps, StringOps}, immutable.WrappedString\nimport scala.annotation.{elidable, implicitNotFound}, elidable.ASSERTION\nimport scala.annotation.meta.{ companionClass, companionMethod }\n\n/** The `Predef` object provides definitions that are accessible in all Scala\n *  compilation units without explicit qualification.\n *\n *  \u003d\u003d\u003d Commonly Used Types \u003d\u003d\u003d\n *  Predef provides type aliases for types which are commonly used, such as\n *  the immutable collection types [[scala.collection.immutable.Map]] and\n *  [[scala.collection.immutable.Set]].\n *\n *  \u003d\u003d\u003d Console Output \u003d\u003d\u003d\n *  For basic console output, `Predef` provides convenience methods [[print(x:Any* print]] and [[println(x:Any* println]],\n *  which are aliases of the methods in the object [[scala.Console]].\n *\n *  \u003d\u003d\u003d Assertions \u003d\u003d\u003d\n *  A set of `assert` functions are provided for use as a way to document\n *  and dynamically check invariants in code. Invocations of `assert` can be elided\n *  at compile time by providing the command line option `-Xdisable-assertions`,\n *  which raises `-Xelide-below` above `elidable.ASSERTION`, to the `scalac` command.\n *\n *  Variants of `assert` intended for use with static analysis tools are also\n *  provided: `assume`, `require` and `ensuring`. `require` and `ensuring` are\n *  intended for use as a means of design-by-contract style specification\n *  of pre- and post-conditions on functions, with the intention that these\n *  specifications could be consumed by a static analysis tool. For instance,\n *\n *  {{{\n *  def addNaturals(nats: List[Int]): Int \u003d {\n *    require(nats forall (_ \u003e\u003d 0), \"List contains negative numbers\")\n *    nats.foldLeft(0)(_ + _)\n *  } ensuring(_ \u003e\u003d 0)\n *  }}}\n *\n *  The declaration of `addNaturals` states that the list of integers passed should\n *  only contain natural numbers (i.e. non-negative), and that the result returned\n *  will also be natural. `require` is distinct from `assert` in that if the\n *  condition fails, then the caller of the function is to blame rather than a\n *  logical error having been made within `addNaturals` itself. `ensuring` is a\n *  form of `assert` that declares the guarantee the function is providing with\n *  regards to its return value.\n *\n *  \u003d\u003d\u003d Implicit Conversions \u003d\u003d\u003d\n *  A number of commonly applied implicit conversions are also defined here, and\n *  in the parent type [[scala.LowPriorityImplicits]]. Implicit conversions\n *  are provided for the \"widening\" of numeric values, for instance, converting a\n *  Short value to a Long value as required, and to add additional higher-order\n *  functions to Array values. These are described in more detail in the documentation of [[scala.Array]].\n *\n * @groupname utilities Utility Methods\n * @groupprio utilities 10\n *\n * @groupname assertions Assertions\n * @groupprio assertions 20\n * @groupdesc assertions These methods support program verification and runtime correctness.\n *\n * @groupname console-output Console Output\n * @groupprio console-output 30\n * @groupdesc console-output These methods provide output via the console.\n *\n * @groupname aliases Aliases\n * @groupprio aliases 50\n * @groupdesc aliases These aliases bring selected immutable types into scope without any imports.\n *\n * @groupname conversions-string String Conversions\n * @groupprio conversions-string 60\n * @groupdesc conversions-string Conversions from String to StringOps or WrappedString.\n *\n * @groupname implicit-classes-any Implicit Classes\n * @groupprio implicit-classes-any 70\n * @groupdesc implicit-classes-any These implicit classes add useful extension methods to every type.\n *\n * @groupname char-sequence-wrappers CharSequence Wrappers\n * @groupprio char-sequence-wrappers 80\n * @groupdesc char-sequence-wrappers Wrappers that implements CharSequence and were implicit classes.\n *\n * @groupname conversions-java-to-anyval Java to Scala\n * @groupprio conversions-java-to-anyval 90\n * @groupdesc conversions-java-to-anyval Implicit conversion from Java primitive wrapper types to Scala equivalents.\n *\n * @groupname conversions-anyval-to-java Scala to Java\n * @groupprio conversions-anyval-to-java 100\n * @groupdesc conversions-anyval-to-java Implicit conversion from Scala AnyVals to Java primitive wrapper types equivalents.\n *\n * @groupname conversions-array-to-wrapped-array Array to ArraySeq\n * @groupprio conversions-array-to-wrapped-array 110\n * @groupdesc conversions-array-to-wrapped-array Conversions from Arrays to ArraySeqs.\n */\nobject Predef extends LowPriorityImplicits {\n  /**\n   * Retrieve the runtime representation of a class type. `classOf[T]` is equivalent to\n   * the class literal `T.class` in Java.\n   *\n   * @example {{{\n   * val listClass \u003d classOf[List[_]]\n   * // listClass is java.lang.Class[List[_]] \u003d class scala.collection.immutable.List\n   *\n   * val mapIntString \u003d classOf[Map[Int,String]]\n   * // mapIntString is java.lang.Class[Map[Int,String]] \u003d interface scala.collection.immutable.Map\n   * }}}\n   *\n   * @return The runtime [[Class]] representation of type `T`.\n   * @group utilities\n   */\n  def classOf[T]: Class[T] \u003d null // This is a stub method. The actual implementation is filled in by the compiler.\n\n  /**\n   * Retrieve the single value of a type with a unique inhabitant.\n   *\n   * @example {{{\n   * object Foo\n   * val foo \u003d valueOf[Foo.type]\n   * // foo is Foo.type \u003d Foo\n   *\n   * val bar \u003d valueOf[23]\n   * // bar is 23.type \u003d 23\n   * }}}\n   * @group utilities\n   */\n  @inline def valueOf[T](implicit vt: ValueOf[T]): T \u003d vt.value\n\n  /** The `String` type in Scala has all the methods of the underlying\n   *  [[java.lang.String]], of which it is just an alias.\n   *\n   *  In addition, extension methods in [[scala.collection.StringOps]]\n   *  are added implicitly through the conversion [[augmentString]].\n   *  @group aliases\n   */\n  type String        \u003d java.lang.String\n  /**  @group aliases */\n  type Class[T]      \u003d java.lang.Class[T]\n\n  // miscellaneous -----------------------------------------------------\n  scala.`package`                         // to force scala package object to be seen.\n  scala.collection.immutable.List         // to force Nil, :: to be seen.\n\n  /**  @group aliases */\n  type Function[-A, +B] \u003d Function1[A, B]\n\n  /**  @group aliases */\n  type Map[K, +V] \u003d immutable.Map[K, V]\n  /**  @group aliases */\n  type Set[A]     \u003d immutable.Set[A]\n  /**  @group aliases */\n  val Map         \u003d immutable.Map\n  /**  @group aliases */\n  val Set         \u003d immutable.Set\n\n  /**\n   * Allows destructuring tuples with the same syntax as constructing them.\n   *\n   * @example {{{\n   * val tup \u003d \"foobar\" -\u003e 3\n   *\n   * val c \u003d tup match {\n   *   case str -\u003e i \u003d\u003e str.charAt(i)\n   * }\n   * }}}\n   * @group aliases\n   */\n  val -\u003e        \u003d Tuple2\n\n  // Manifest types, companions, and incantations for summoning\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"this notion doesn\u0027t have a corresponding concept in 2.10, because scala.reflect.runtime.universe.TypeTag can capture arbitrary types. Use type tags instead of manifests, and there will be no need in opt manifests.\", \"2.10.0\")\n  type OptManifest[T]   \u003d scala.reflect.OptManifest[T]\n  @implicitNotFound(msg \u003d \"No Manifest available for ${T}.\")\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"use `scala.reflect.ClassTag` (to capture erasures) or scala.reflect.runtime.universe.TypeTag (to capture types) or both instead\", \"2.10.0\")\n  type Manifest[T]      \u003d scala.reflect.Manifest[T]\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"use `scala.reflect.ClassTag` (to capture erasures) or scala.reflect.runtime.universe.TypeTag (to capture types) or both instead\", \"2.10.0\")\n  val Manifest          \u003d scala.reflect.Manifest\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"this notion doesn\u0027t have a corresponding concept in 2.10, because scala.reflect.runtime.universe.TypeTag can capture arbitrary types. Use type tags instead of manifests, and there will be no need in opt manifests.\", \"2.10.0\")\n  val NoManifest        \u003d scala.reflect.NoManifest\n\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"use scala.reflect.classTag[T] and scala.reflect.runtime.universe.typeTag[T] instead\", \"2.10.0\")\n  def manifest[T](implicit m: Manifest[T]): Manifest[T]          \u003d m\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"this notion doesn\u0027t have a corresponding concept in 2.10, because scala.reflect.runtime.universe.TypeTag can capture arbitrary types. Use type tags instead of manifests, and there will be no need in opt manifests.\", \"2.10.0\")\n  def optManifest[T](implicit m: OptManifest[T]): OptManifest[T] \u003d m\n\n  // Minor variations on identity functions\n\n  /**\n   * A method that returns its input value.\n   * @tparam A type of the input value x.\n   * @param x the value of type `A` to be returned.\n   * @return the value `x`.\n   * @group utilities */\n  @inline def identity[A](x: A): A \u003d x // see `$conforms` for the implicit version\n\n  /** Summon an implicit value of type `T`. Usually, the argument is not passed explicitly.\n   *\n   *  @tparam T the type of the value to be summoned\n   *  @return the implicit value of type `T`\n   *  @group utilities\n   */\n  @inline def implicitly[T](implicit e: T): T \u003d e // TODO: when dependent method types are on by default, give this result type `e.type`, so that inliner has better chance of knowing which method to inline in calls like `implicitly[MatchingStrategy[Option]].zero`\n\n  /** Used to mark code blocks as being expressions, instead of being taken as part of anonymous classes and the like.\n   *  This is just a different name for [[identity]].\n   *\n   *  @example Separating code blocks from `new`:\n   *           {{{\n   *             val x \u003d new AnyRef\n   *             {\n   *               val y \u003d ...\n   *               println(y)\n   *             }\n   *             // the { ... } block is seen as the body of an anonymous class\n   *\n   *             val x \u003d new AnyRef\n   *\n   *             {\n   *               val y \u003d ...\n   *               println(y)\n   *             }\n   *             // an empty line is a brittle \"fix\"\n   *\n   *             val x \u003d new AnyRef\n   *             locally {\n   *               val y \u003d ...\n   *               println(y)\n   *             }\n   *             // locally guards the block and helps communicate intent\n   *           }}}\n   *  @group utilities\n   */\n  @inline def locally[T](@deprecatedName(\"x\") x: T): T \u003d x\n\n  // assertions ---------------------------------------------------------\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  Calls to this method will not be generated if `-Xelide-below`\n   *  is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assertion   the expression to test\n   *  @group assertions\n   */\n  @elidable(ASSERTION)\n  def assert(assertion: Boolean): Unit \u003d {\n    if (!assertion)\n      throw new java.lang.AssertionError(\"assertion failed\")\n  }\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  Calls to this method will not be generated if `-Xelide-below`\n   *  is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assertion   the expression to test\n   *  @param message     a String to include in the failure message\n   *  @group assertions\n   */\n  @elidable(ASSERTION) @inline\n  final def assert(assertion: Boolean, message: \u003d\u003e Any): Unit \u003d {\n    if (!assertion)\n      throw new java.lang.AssertionError(\"assertion failed: \"+ message)\n  }\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  This method differs from assert only in the intent expressed:\n   *  assert contains a predicate which needs to be proven, while\n   *  assume contains an axiom for a static checker.  Calls to this method\n   *  will not be generated if `-Xelide-below` is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assumption   the expression to test\n   *  @group assertions\n   */\n  @elidable(ASSERTION)\n  def assume(assumption: Boolean): Unit \u003d {\n    if (!assumption)\n      throw new java.lang.AssertionError(\"assumption failed\")\n  }\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  This method differs from assert only in the intent expressed:\n   *  assert contains a predicate which needs to be proven, while\n   *  assume contains an axiom for a static checker.  Calls to this method\n   *  will not be generated if `-Xelide-below` is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assumption   the expression to test\n   *  @param message      a String to include in the failure message\n   *  @group assertions\n   */\n  @elidable(ASSERTION) @inline\n  final def assume(assumption: Boolean, message: \u003d\u003e Any): Unit \u003d {\n    if (!assumption)\n      throw new java.lang.AssertionError(\"assumption failed: \"+ message)\n  }\n\n  /** Tests an expression, throwing an `IllegalArgumentException` if false.\n   *  This method is similar to `assert`, but blames the caller of the method\n   *  for violating the condition.\n   *\n   *  @param requirement   the expression to test\n   *  @group assertions\n   */\n  def require(requirement: Boolean): Unit \u003d {\n    if (!requirement)\n      throw new IllegalArgumentException(\"requirement failed\")\n  }\n\n  /** Tests an expression, throwing an `IllegalArgumentException` if false.\n   *  This method is similar to `assert`, but blames the caller of the method\n   *  for violating the condition.\n   *\n   *  @param requirement   the expression to test\n   *  @param message       a String to include in the failure message\n   *  @group assertions\n   */\n  @inline final def require(requirement: Boolean, message: \u003d\u003e Any): Unit \u003d {\n    if (!requirement)\n      throw new IllegalArgumentException(\"requirement failed: \"+ message)\n  }\n\n  /** `???` can be used for marking methods that remain to be implemented.\n   *  @throws NotImplementedError when `???` is invoked.\n   *  @group utilities\n   */\n  def ??? : Nothing \u003d throw new NotImplementedError\n\n  // implicit classes -----------------------------------------------------\n\n  /** @group implicit-classes-any */\n  implicit final class ArrowAssoc[A](private val self: A) extends AnyVal {\n    @inline def -\u003e [B](y: B): (A, B) \u003d (self, y)\n    @deprecated(\"Use `-\u003e` instead. If you still wish to display it as one character, consider using a font with programming ligatures such as Fira Code.\", \"2.13.0\")\n    def ?[B](y: B): (A, B) \u003d -\u003e(y)\n  }\n\n  /** @group implicit-classes-any */\n  implicit final class Ensuring[A](private val self: A) extends AnyVal {\n    def ensuring(cond: Boolean): A \u003d { assert(cond); self }\n    def ensuring(cond: Boolean, msg: \u003d\u003e Any): A \u003d { assert(cond, msg); self }\n    def ensuring(cond: A \u003d\u003e Boolean): A \u003d { assert(cond(self)); self }\n    def ensuring(cond: A \u003d\u003e Boolean, msg: \u003d\u003e Any): A \u003d { assert(cond(self), msg); self }\n  }\n\n  /** @group implicit-classes-any */\n  implicit final class StringFormat[A](private val self: A) extends AnyVal {\n    /** Returns string formatted according to given `format` string.\n     *  Format strings are as for `String.format`\n     *  (@see java.lang.String.format).\n     */\n    @deprecated(\"Use `formatString.format(value)` instead of `value.formatted(formatString)`,\\nor use the `f\\\"\\\"` string interpolator. In Java 15 and later, `formatted` resolves to the new method in String which has reversed parameters.\", \"2.12.16\")\n    @inline def formatted(fmtstr: String): String \u003d fmtstr format self\n  }\n\n  /** Injects String concatenation operator `+` to any classes. \n   * @group implicit-classes-any\n   */\n  @(deprecated @companionMethod)(\"Implicit injection of + is deprecated. Convert to String to call +\", \"2.13.0\")\n  @(deprecated @companionClass)(\"Implicit injection of + is deprecated. Convert to String to call +\", \"2.13.0\") // for Scaladoc\n  // scala/bug#8229 retaining the pre 2.11 name for source compatibility in shadowing this implicit\n  implicit final class any2stringadd[A](private val self: A) extends AnyVal {\n    def +(other: String): String \u003d String.valueOf(self) + other\n  }\n\n  /** @group char-sequence-wrappers */\n  final class SeqCharSequence(sequenceOfChars: scala.collection.IndexedSeq[Char]) extends CharSequence {\n    def length: Int                                     \u003d sequenceOfChars.length\n    def charAt(index: Int): Char                        \u003d sequenceOfChars(index)\n    def subSequence(start: Int, end: Int): CharSequence \u003d new SeqCharSequence(sequenceOfChars.slice(start, end))\n    override def toString                               \u003d sequenceOfChars.mkString\n  }\n\n  /** @group char-sequence-wrappers */\n  def SeqCharSequence(sequenceOfChars: scala.collection.IndexedSeq[Char]): SeqCharSequence \u003d new SeqCharSequence(sequenceOfChars)\n\n  /** @group char-sequence-wrappers */\n  final class ArrayCharSequence(arrayOfChars: Array[Char]) extends CharSequence {\n    def length: Int                                     \u003d arrayOfChars.length\n    def charAt(index: Int): Char                        \u003d arrayOfChars(index)\n    def subSequence(start: Int, end: Int): CharSequence \u003d new runtime.ArrayCharSequence(arrayOfChars, start, end)\n    override def toString                               \u003d arrayOfChars.mkString\n  }\n\n  /** @group char-sequence-wrappers */\n  def ArrayCharSequence(arrayOfChars: Array[Char]): ArrayCharSequence \u003d new ArrayCharSequence(arrayOfChars)\n\n  /** @group conversions-string */\n  @inline implicit def augmentString(x: String): StringOps \u003d new StringOps(x)\n\n  // printing -----------------------------------------------------------\n\n  /** Prints an object to `out` using its `toString` method.\n   *\n   *  @param x the object to print; may be null.\n   *  @group console-output\n   */\n  def print(x: Any): Unit \u003d Console.print(x)\n\n  /** Prints a newline character on the default output.\n   *  @group console-output\n   */\n  def println(): Unit \u003d Console.println()\n\n  /** Prints out an object to the default output, followed by a newline character.\n   *\n   *  @param x the object to print.\n   *  @group console-output\n   */\n  def println(x: Any): Unit \u003d Console.println(x)\n\n  /** Prints its arguments as a formatted string to the default output,\n   *  based on a string pattern (in a fashion similar to printf in C).\n   *\n   *  The interpretation of the formatting patterns is described in\n   *  [[java.util.Formatter]].\n   *\n   *  Consider using the [[scala.StringContext.f f interpolator]] as more type safe and idiomatic.\n   *\n   *  @param text the pattern for formatting the arguments.\n   *  @param xs   the arguments used to instantiate the pattern.\n   *  @throws java.lang.IllegalArgumentException if there was a problem with the format string or arguments\n   *\n   *  @see [[scala.StringContext.f StringContext.f]]\n   *  @group console-output\n   */\n  def printf(text: String, xs: Any*): Unit \u003d Console.print(text.format(xs: _*))\n\n  // views --------------------------------------------------------------\n\n  // these two are morally deprecated but the @deprecated annotation has been moved to the extension method themselves,\n  // in order to provide a more specific deprecation method.\n  implicit def tuple2ToZippedOps[T1, T2](x: (T1, T2)): runtime.Tuple2Zipped.Ops[T1, T2]             \u003d new runtime.Tuple2Zipped.Ops(x)\n  implicit def tuple3ToZippedOps[T1, T2, T3](x: (T1, T2, T3)): runtime.Tuple3Zipped.Ops[T1, T2, T3] \u003d new runtime.Tuple3Zipped.Ops(x)\n\n  // Not specialized anymore since 2.13 but we still need separate methods\n  // to avoid https://github.com/scala/bug/issues/10746\n  // TODO: should not need @inline. add heuristic to inline factories for value classes.\n  @inline implicit def genericArrayOps[T](xs: Array[T]): ArrayOps[T]          \u003d new ArrayOps(xs)\n  @inline implicit def booleanArrayOps(xs: Array[Boolean]): ArrayOps[Boolean] \u003d new ArrayOps(xs)\n  @inline implicit def byteArrayOps(xs: Array[Byte]): ArrayOps[Byte]          \u003d new ArrayOps(xs)\n  @inline implicit def charArrayOps(xs: Array[Char]): ArrayOps[Char]          \u003d new ArrayOps(xs)\n  @inline implicit def doubleArrayOps(xs: Array[Double]): ArrayOps[Double]    \u003d new ArrayOps(xs)\n  @inline implicit def floatArrayOps(xs: Array[Float]): ArrayOps[Float]       \u003d new ArrayOps(xs)\n  @inline implicit def intArrayOps(xs: Array[Int]): ArrayOps[Int]             \u003d new ArrayOps(xs)\n  @inline implicit def longArrayOps(xs: Array[Long]): ArrayOps[Long]          \u003d new ArrayOps(xs)\n  @inline implicit def refArrayOps[T \u003c: AnyRef](xs: Array[T]): ArrayOps[T]    \u003d new ArrayOps(xs)\n  @inline implicit def shortArrayOps(xs: Array[Short]): ArrayOps[Short]       \u003d new ArrayOps(xs)\n  @inline implicit def unitArrayOps(xs: Array[Unit]): ArrayOps[Unit]          \u003d new ArrayOps(xs)\n\n  // \"Autoboxing\" and \"Autounboxing\" ---------------------------------------------------\n\n  /** @group conversions-anyval-to-java */\n  implicit def byte2Byte(x: Byte): java.lang.Byte             \u003d x.asInstanceOf[java.lang.Byte]\n  /** @group conversions-anyval-to-java */\n  implicit def short2Short(x: Short): java.lang.Short         \u003d x.asInstanceOf[java.lang.Short]\n  /** @group conversions-anyval-to-java */\n  implicit def char2Character(x: Char): java.lang.Character   \u003d x.asInstanceOf[java.lang.Character]\n  /** @group conversions-anyval-to-java */\n  implicit def int2Integer(x: Int): java.lang.Integer         \u003d x.asInstanceOf[java.lang.Integer]\n  /** @group conversions-anyval-to-java */\n  implicit def long2Long(x: Long): java.lang.Long             \u003d x.asInstanceOf[java.lang.Long]\n  /** @group conversions-anyval-to-java */\n  implicit def float2Float(x: Float): java.lang.Float         \u003d x.asInstanceOf[java.lang.Float]\n  /** @group conversions-anyval-to-java */\n  implicit def double2Double(x: Double): java.lang.Double     \u003d x.asInstanceOf[java.lang.Double]\n  /** @group conversions-anyval-to-java */\n  implicit def boolean2Boolean(x: Boolean): java.lang.Boolean \u003d x.asInstanceOf[java.lang.Boolean]\n\n  /** @group conversions-java-to-anyval */\n  implicit def Byte2byte(x: java.lang.Byte): Byte             \u003d x.asInstanceOf[Byte]\n  /** @group conversions-java-to-anyval */\n  implicit def Short2short(x: java.lang.Short): Short         \u003d x.asInstanceOf[Short]\n  /** @group conversions-java-to-anyval */\n  implicit def Character2char(x: java.lang.Character): Char   \u003d x.asInstanceOf[Char]\n  /** @group conversions-java-to-anyval */\n  implicit def Integer2int(x: java.lang.Integer): Int         \u003d x.asInstanceOf[Int]\n  /** @group conversions-java-to-anyval */\n  implicit def Long2long(x: java.lang.Long): Long             \u003d x.asInstanceOf[Long]\n  /** @group conversions-java-to-anyval */\n  implicit def Float2float(x: java.lang.Float): Float         \u003d x.asInstanceOf[Float]\n  /** @group conversions-java-to-anyval */\n  implicit def Double2double(x: java.lang.Double): Double     \u003d x.asInstanceOf[Double]\n  /** @group conversions-java-to-anyval */\n  implicit def Boolean2boolean(x: java.lang.Boolean): Boolean \u003d x.asInstanceOf[Boolean]\n\n  /** An implicit of type `A \u003d\u003e A` is available for all `A` because it can always\n   *  be implemented using the identity function. This also means that an\n   *  implicit of type `A \u003d\u003e B` is always available when `A \u003c: B`, because\n   *  `(A \u003d\u003e A) \u003c: (A \u003d\u003e B)`.\n   */\n  // $ to avoid accidental shadowing (e.g. scala/bug#7788)\n  implicit def $conforms[A]: A \u003d\u003e A \u003d \u003c:\u003c.refl\n}\n\n/** The `LowPriorityImplicits` class provides implicit values that\n*  are valid in all Scala compilation units without explicit qualification,\n*  but that are partially overridden by higher-priority conversions in object\n*  `Predef`.\n*/\n// scala/bug#7335 Parents of Predef are defined in the same compilation unit to avoid\n// cyclic reference errors compiling the standard library *without* a previously\n// compiled copy on the classpath.\nprivate[scala] abstract class LowPriorityImplicits extends LowPriorityImplicits2 {\n  import mutable.ArraySeq\n\n  /** We prefer the java.lang.* boxed types to these wrappers in\n   *  any potential conflicts.  Conflicts do exist because the wrappers\n   *  need to implement ScalaNumber in order to have a symmetric equals\n   *  method, but that implies implementing java.lang.Number as well.\n   *\n   *  Note - these are inlined because they are value classes, but\n   *  the call to xxxWrapper is not eliminated even though it does nothing.\n   *  Even inlined, every call site does a no-op retrieval of Predef\u0027s MODULE$\n   *  because maybe loading Predef has side effects!\n   */\n  @inline implicit def byteWrapper(x: Byte): runtime.RichByte          \u003d new runtime.RichByte(x)\n  @inline implicit def shortWrapper(x: Short): runtime.RichShort       \u003d new runtime.RichShort(x)\n  @inline implicit def intWrapper(x: Int): runtime.RichInt             \u003d new runtime.RichInt(x)\n  @inline implicit def charWrapper(c: Char): runtime.RichChar          \u003d new runtime.RichChar(c)\n  @inline implicit def longWrapper(x: Long): runtime.RichLong          \u003d new runtime.RichLong(x)\n  @inline implicit def floatWrapper(x: Float): runtime.RichFloat       \u003d new runtime.RichFloat(x)\n  @inline implicit def doubleWrapper(x: Double): runtime.RichDouble    \u003d new runtime.RichDouble(x)\n  @inline implicit def booleanWrapper(x: Boolean): runtime.RichBoolean \u003d new runtime.RichBoolean(x)\n\n  /** @group conversions-array-to-wrapped-array */\n  implicit def genericWrapArray[T](xs: Array[T]): ArraySeq[T] \u003d\n    if (xs eq null) null\n    else ArraySeq.make(xs)\n\n  // Since the JVM thinks arrays are covariant, one 0-length Array[AnyRef]\n  // is as good as another for all T \u003c: AnyRef.  Instead of creating 100,000,000\n  // unique ones by way of this implicit, let\u0027s share one.\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapRefArray[T \u003c: AnyRef](xs: Array[T]): ArraySeq.ofRef[T] \u003d {\n    if (xs eq null) null\n    else if (xs.length \u003d\u003d 0) ArraySeq.empty[AnyRef].asInstanceOf[ArraySeq.ofRef[T]]\n    else new ArraySeq.ofRef[T](xs)\n  }\n\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapIntArray(xs: Array[Int]): ArraySeq.ofInt \u003d if (xs ne null) new ArraySeq.ofInt(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapDoubleArray(xs: Array[Double]): ArraySeq.ofDouble \u003d if (xs ne null) new ArraySeq.ofDouble(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapLongArray(xs: Array[Long]): ArraySeq.ofLong \u003d if (xs ne null) new ArraySeq.ofLong(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapFloatArray(xs: Array[Float]): ArraySeq.ofFloat \u003d if (xs ne null) new ArraySeq.ofFloat(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapCharArray(xs: Array[Char]): ArraySeq.ofChar \u003d if (xs ne null) new ArraySeq.ofChar(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapByteArray(xs: Array[Byte]): ArraySeq.ofByte \u003d if (xs ne null) new ArraySeq.ofByte(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapShortArray(xs: Array[Short]): ArraySeq.ofShort \u003d if (xs ne null) new ArraySeq.ofShort(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapBooleanArray(xs: Array[Boolean]): ArraySeq.ofBoolean \u003d if (xs ne null) new ArraySeq.ofBoolean(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapUnitArray(xs: Array[Unit]): ArraySeq.ofUnit \u003d if (xs ne null) new ArraySeq.ofUnit(xs) else null\n\n  /** @group conversions-string */\n  implicit def wrapString(s: String): WrappedString \u003d if (s ne null) new WrappedString(s) else null\n}\n\nprivate[scala] abstract class LowPriorityImplicits2 {\n  @deprecated(\"Implicit conversions from Array to immutable.IndexedSeq are implemented by copying; Use the more efficient non-copying ArraySeq.unsafeWrapArray or an explicit toIndexedSeq call\", \"2.13.0\")\n  implicit def copyArrayToImmutableIndexedSeq[T](xs: Array[T]): IndexedSeq[T] \u003d\n    if (xs eq null) null\n    else new ArrayOps(xs).toIndexedSeq\n}\n"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI.create(URI.java:852)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:177)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:174)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:153)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:174)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:684)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:681)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:339)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:39)
+	... 16 more
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parse(URI.java:3058)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URI.create(URI.java:850)
+	... 24 more
+
+Dec 18, 2023 12:26:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didClose",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar%21/scala/Predef.scala"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI.create(URI.java:852)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:177)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:174)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:153)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:174)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:684)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:681)
+	at scala.meta.internal.metals.WorkspaceLspService.didClose(WorkspaceLspService.scala:358)
+	at scala.meta.metals.lsp.DelegatingScalaService.didClose(DelegatingScalaService.scala:53)
+	... 16 more
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parse(URI.java:3058)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URI.create(URI.java:850)
+	... 24 more
+
+2023.12.18 12:26:30 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:30 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:30 INFO  time: compiled Scala_bd2c96d2de in 0.27s
+2023.12.18 12:26:33 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:33 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:26:36 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:36 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:26:36 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:36 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:26:37 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:37 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.18 12:26:37 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:37 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:37 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:26:38 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:39 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:40 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:40 INFO  time: compiled Scala_bd2c96d2de in 74ms
+2023.12.18 12:26:40 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:40 INFO  time: compiled Scala_bd2c96d2de in 88ms
+2023.12.18 12:26:41 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:41 INFO  time: compiled Scala_bd2c96d2de in 0.62s
+Dec 18, 2023 12:26:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1370
+2023.12.18 12:26:42 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:42 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:42 INFO  time: compiled Scala_bd2c96d2de in 88ms
+2023.12.18 12:26:42 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:42 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:42 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.18 12:26:43 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:44 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:44 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:44 INFO  time: compiled Scala_bd2c96d2de in 79ms
+2023.12.18 12:26:44 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:44 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:26:45 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:45 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:45 INFO  time: compiled Scala_bd2c96d2de in 75ms
+2023.12.18 12:26:46 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:47 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:47 INFO  time: compiled Scala_bd2c96d2de in 0.32s
+2023.12.18 12:26:48 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: unclosed string interpolation
+    override def toString = s"$"
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.18 12:26:48 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: unclosed string interpolation
+    override def toString = s"$"
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.18 12:26:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:50 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:26:52 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:52 INFO  time: compiled Scala_bd2c96d2de in 0.18s
+2023.12.18 12:26:58 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:58 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.18 12:26:58 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:26:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:26:59 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+Dec 18, 2023 12:29:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didOpen",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar%21/scala/Predef.scala",
+      "languageId": "scala",
+      "version": 1,
+      "text": "/*\n * Scala (https://www.scala-lang.org)\n *\n * Copyright EPFL and Lightbend, Inc.\n *\n * Licensed under Apache License 2.0\n * (http://www.apache.org/licenses/LICENSE-2.0).\n *\n * See the NOTICE file distributed with this work for\n * additional information regarding copyright ownership.\n */\n\npackage scala\n\nimport scala.language.implicitConversions\n\nimport scala.collection.{mutable, immutable, ArrayOps, StringOps}, immutable.WrappedString\nimport scala.annotation.{elidable, implicitNotFound}, elidable.ASSERTION\nimport scala.annotation.meta.{ companionClass, companionMethod }\n\n/** The `Predef` object provides definitions that are accessible in all Scala\n *  compilation units without explicit qualification.\n *\n *  \u003d\u003d\u003d Commonly Used Types \u003d\u003d\u003d\n *  Predef provides type aliases for types which are commonly used, such as\n *  the immutable collection types [[scala.collection.immutable.Map]] and\n *  [[scala.collection.immutable.Set]].\n *\n *  \u003d\u003d\u003d Console Output \u003d\u003d\u003d\n *  For basic console output, `Predef` provides convenience methods [[print(x:Any* print]] and [[println(x:Any* println]],\n *  which are aliases of the methods in the object [[scala.Console]].\n *\n *  \u003d\u003d\u003d Assertions \u003d\u003d\u003d\n *  A set of `assert` functions are provided for use as a way to document\n *  and dynamically check invariants in code. Invocations of `assert` can be elided\n *  at compile time by providing the command line option `-Xdisable-assertions`,\n *  which raises `-Xelide-below` above `elidable.ASSERTION`, to the `scalac` command.\n *\n *  Variants of `assert` intended for use with static analysis tools are also\n *  provided: `assume`, `require` and `ensuring`. `require` and `ensuring` are\n *  intended for use as a means of design-by-contract style specification\n *  of pre- and post-conditions on functions, with the intention that these\n *  specifications could be consumed by a static analysis tool. For instance,\n *\n *  {{{\n *  def addNaturals(nats: List[Int]): Int \u003d {\n *    require(nats forall (_ \u003e\u003d 0), \"List contains negative numbers\")\n *    nats.foldLeft(0)(_ + _)\n *  } ensuring(_ \u003e\u003d 0)\n *  }}}\n *\n *  The declaration of `addNaturals` states that the list of integers passed should\n *  only contain natural numbers (i.e. non-negative), and that the result returned\n *  will also be natural. `require` is distinct from `assert` in that if the\n *  condition fails, then the caller of the function is to blame rather than a\n *  logical error having been made within `addNaturals` itself. `ensuring` is a\n *  form of `assert` that declares the guarantee the function is providing with\n *  regards to its return value.\n *\n *  \u003d\u003d\u003d Implicit Conversions \u003d\u003d\u003d\n *  A number of commonly applied implicit conversions are also defined here, and\n *  in the parent type [[scala.LowPriorityImplicits]]. Implicit conversions\n *  are provided for the \"widening\" of numeric values, for instance, converting a\n *  Short value to a Long value as required, and to add additional higher-order\n *  functions to Array values. These are described in more detail in the documentation of [[scala.Array]].\n *\n * @groupname utilities Utility Methods\n * @groupprio utilities 10\n *\n * @groupname assertions Assertions\n * @groupprio assertions 20\n * @groupdesc assertions These methods support program verification and runtime correctness.\n *\n * @groupname console-output Console Output\n * @groupprio console-output 30\n * @groupdesc console-output These methods provide output via the console.\n *\n * @groupname aliases Aliases\n * @groupprio aliases 50\n * @groupdesc aliases These aliases bring selected immutable types into scope without any imports.\n *\n * @groupname conversions-string String Conversions\n * @groupprio conversions-string 60\n * @groupdesc conversions-string Conversions from String to StringOps or WrappedString.\n *\n * @groupname implicit-classes-any Implicit Classes\n * @groupprio implicit-classes-any 70\n * @groupdesc implicit-classes-any These implicit classes add useful extension methods to every type.\n *\n * @groupname char-sequence-wrappers CharSequence Wrappers\n * @groupprio char-sequence-wrappers 80\n * @groupdesc char-sequence-wrappers Wrappers that implements CharSequence and were implicit classes.\n *\n * @groupname conversions-java-to-anyval Java to Scala\n * @groupprio conversions-java-to-anyval 90\n * @groupdesc conversions-java-to-anyval Implicit conversion from Java primitive wrapper types to Scala equivalents.\n *\n * @groupname conversions-anyval-to-java Scala to Java\n * @groupprio conversions-anyval-to-java 100\n * @groupdesc conversions-anyval-to-java Implicit conversion from Scala AnyVals to Java primitive wrapper types equivalents.\n *\n * @groupname conversions-array-to-wrapped-array Array to ArraySeq\n * @groupprio conversions-array-to-wrapped-array 110\n * @groupdesc conversions-array-to-wrapped-array Conversions from Arrays to ArraySeqs.\n */\nobject Predef extends LowPriorityImplicits {\n  /**\n   * Retrieve the runtime representation of a class type. `classOf[T]` is equivalent to\n   * the class literal `T.class` in Java.\n   *\n   * @example {{{\n   * val listClass \u003d classOf[List[_]]\n   * // listClass is java.lang.Class[List[_]] \u003d class scala.collection.immutable.List\n   *\n   * val mapIntString \u003d classOf[Map[Int,String]]\n   * // mapIntString is java.lang.Class[Map[Int,String]] \u003d interface scala.collection.immutable.Map\n   * }}}\n   *\n   * @return The runtime [[Class]] representation of type `T`.\n   * @group utilities\n   */\n  def classOf[T]: Class[T] \u003d null // This is a stub method. The actual implementation is filled in by the compiler.\n\n  /**\n   * Retrieve the single value of a type with a unique inhabitant.\n   *\n   * @example {{{\n   * object Foo\n   * val foo \u003d valueOf[Foo.type]\n   * // foo is Foo.type \u003d Foo\n   *\n   * val bar \u003d valueOf[23]\n   * // bar is 23.type \u003d 23\n   * }}}\n   * @group utilities\n   */\n  @inline def valueOf[T](implicit vt: ValueOf[T]): T \u003d vt.value\n\n  /** The `String` type in Scala has all the methods of the underlying\n   *  [[java.lang.String]], of which it is just an alias.\n   *\n   *  In addition, extension methods in [[scala.collection.StringOps]]\n   *  are added implicitly through the conversion [[augmentString]].\n   *  @group aliases\n   */\n  type String        \u003d java.lang.String\n  /**  @group aliases */\n  type Class[T]      \u003d java.lang.Class[T]\n\n  // miscellaneous -----------------------------------------------------\n  scala.`package`                         // to force scala package object to be seen.\n  scala.collection.immutable.List         // to force Nil, :: to be seen.\n\n  /**  @group aliases */\n  type Function[-A, +B] \u003d Function1[A, B]\n\n  /**  @group aliases */\n  type Map[K, +V] \u003d immutable.Map[K, V]\n  /**  @group aliases */\n  type Set[A]     \u003d immutable.Set[A]\n  /**  @group aliases */\n  val Map         \u003d immutable.Map\n  /**  @group aliases */\n  val Set         \u003d immutable.Set\n\n  /**\n   * Allows destructuring tuples with the same syntax as constructing them.\n   *\n   * @example {{{\n   * val tup \u003d \"foobar\" -\u003e 3\n   *\n   * val c \u003d tup match {\n   *   case str -\u003e i \u003d\u003e str.charAt(i)\n   * }\n   * }}}\n   * @group aliases\n   */\n  val -\u003e        \u003d Tuple2\n\n  // Manifest types, companions, and incantations for summoning\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"this notion doesn\u0027t have a corresponding concept in 2.10, because scala.reflect.runtime.universe.TypeTag can capture arbitrary types. Use type tags instead of manifests, and there will be no need in opt manifests.\", \"2.10.0\")\n  type OptManifest[T]   \u003d scala.reflect.OptManifest[T]\n  @implicitNotFound(msg \u003d \"No Manifest available for ${T}.\")\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"use `scala.reflect.ClassTag` (to capture erasures) or scala.reflect.runtime.universe.TypeTag (to capture types) or both instead\", \"2.10.0\")\n  type Manifest[T]      \u003d scala.reflect.Manifest[T]\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"use `scala.reflect.ClassTag` (to capture erasures) or scala.reflect.runtime.universe.TypeTag (to capture types) or both instead\", \"2.10.0\")\n  val Manifest          \u003d scala.reflect.Manifest\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"this notion doesn\u0027t have a corresponding concept in 2.10, because scala.reflect.runtime.universe.TypeTag can capture arbitrary types. Use type tags instead of manifests, and there will be no need in opt manifests.\", \"2.10.0\")\n  val NoManifest        \u003d scala.reflect.NoManifest\n\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"use scala.reflect.classTag[T] and scala.reflect.runtime.universe.typeTag[T] instead\", \"2.10.0\")\n  def manifest[T](implicit m: Manifest[T]): Manifest[T]          \u003d m\n  // TODO undeprecated until Scala reflection becomes non-experimental\n  // @deprecated(\"this notion doesn\u0027t have a corresponding concept in 2.10, because scala.reflect.runtime.universe.TypeTag can capture arbitrary types. Use type tags instead of manifests, and there will be no need in opt manifests.\", \"2.10.0\")\n  def optManifest[T](implicit m: OptManifest[T]): OptManifest[T] \u003d m\n\n  // Minor variations on identity functions\n\n  /**\n   * A method that returns its input value.\n   * @tparam A type of the input value x.\n   * @param x the value of type `A` to be returned.\n   * @return the value `x`.\n   * @group utilities */\n  @inline def identity[A](x: A): A \u003d x // see `$conforms` for the implicit version\n\n  /** Summon an implicit value of type `T`. Usually, the argument is not passed explicitly.\n   *\n   *  @tparam T the type of the value to be summoned\n   *  @return the implicit value of type `T`\n   *  @group utilities\n   */\n  @inline def implicitly[T](implicit e: T): T \u003d e // TODO: when dependent method types are on by default, give this result type `e.type`, so that inliner has better chance of knowing which method to inline in calls like `implicitly[MatchingStrategy[Option]].zero`\n\n  /** Used to mark code blocks as being expressions, instead of being taken as part of anonymous classes and the like.\n   *  This is just a different name for [[identity]].\n   *\n   *  @example Separating code blocks from `new`:\n   *           {{{\n   *             val x \u003d new AnyRef\n   *             {\n   *               val y \u003d ...\n   *               println(y)\n   *             }\n   *             // the { ... } block is seen as the body of an anonymous class\n   *\n   *             val x \u003d new AnyRef\n   *\n   *             {\n   *               val y \u003d ...\n   *               println(y)\n   *             }\n   *             // an empty line is a brittle \"fix\"\n   *\n   *             val x \u003d new AnyRef\n   *             locally {\n   *               val y \u003d ...\n   *               println(y)\n   *             }\n   *             // locally guards the block and helps communicate intent\n   *           }}}\n   *  @group utilities\n   */\n  @inline def locally[T](@deprecatedName(\"x\") x: T): T \u003d x\n\n  // assertions ---------------------------------------------------------\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  Calls to this method will not be generated if `-Xelide-below`\n   *  is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assertion   the expression to test\n   *  @group assertions\n   */\n  @elidable(ASSERTION)\n  def assert(assertion: Boolean): Unit \u003d {\n    if (!assertion)\n      throw new java.lang.AssertionError(\"assertion failed\")\n  }\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  Calls to this method will not be generated if `-Xelide-below`\n   *  is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assertion   the expression to test\n   *  @param message     a String to include in the failure message\n   *  @group assertions\n   */\n  @elidable(ASSERTION) @inline\n  final def assert(assertion: Boolean, message: \u003d\u003e Any): Unit \u003d {\n    if (!assertion)\n      throw new java.lang.AssertionError(\"assertion failed: \"+ message)\n  }\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  This method differs from assert only in the intent expressed:\n   *  assert contains a predicate which needs to be proven, while\n   *  assume contains an axiom for a static checker.  Calls to this method\n   *  will not be generated if `-Xelide-below` is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assumption   the expression to test\n   *  @group assertions\n   */\n  @elidable(ASSERTION)\n  def assume(assumption: Boolean): Unit \u003d {\n    if (!assumption)\n      throw new java.lang.AssertionError(\"assumption failed\")\n  }\n\n  /** Tests an expression, throwing an `AssertionError` if false.\n   *  This method differs from assert only in the intent expressed:\n   *  assert contains a predicate which needs to be proven, while\n   *  assume contains an axiom for a static checker.  Calls to this method\n   *  will not be generated if `-Xelide-below` is greater than `ASSERTION`.\n   *\n   *  @see [[scala.annotation.elidable elidable]]\n   *  @param assumption   the expression to test\n   *  @param message      a String to include in the failure message\n   *  @group assertions\n   */\n  @elidable(ASSERTION) @inline\n  final def assume(assumption: Boolean, message: \u003d\u003e Any): Unit \u003d {\n    if (!assumption)\n      throw new java.lang.AssertionError(\"assumption failed: \"+ message)\n  }\n\n  /** Tests an expression, throwing an `IllegalArgumentException` if false.\n   *  This method is similar to `assert`, but blames the caller of the method\n   *  for violating the condition.\n   *\n   *  @param requirement   the expression to test\n   *  @group assertions\n   */\n  def require(requirement: Boolean): Unit \u003d {\n    if (!requirement)\n      throw new IllegalArgumentException(\"requirement failed\")\n  }\n\n  /** Tests an expression, throwing an `IllegalArgumentException` if false.\n   *  This method is similar to `assert`, but blames the caller of the method\n   *  for violating the condition.\n   *\n   *  @param requirement   the expression to test\n   *  @param message       a String to include in the failure message\n   *  @group assertions\n   */\n  @inline final def require(requirement: Boolean, message: \u003d\u003e Any): Unit \u003d {\n    if (!requirement)\n      throw new IllegalArgumentException(\"requirement failed: \"+ message)\n  }\n\n  /** `???` can be used for marking methods that remain to be implemented.\n   *  @throws NotImplementedError when `???` is invoked.\n   *  @group utilities\n   */\n  def ??? : Nothing \u003d throw new NotImplementedError\n\n  // implicit classes -----------------------------------------------------\n\n  /** @group implicit-classes-any */\n  implicit final class ArrowAssoc[A](private val self: A) extends AnyVal {\n    @inline def -\u003e [B](y: B): (A, B) \u003d (self, y)\n    @deprecated(\"Use `-\u003e` instead. If you still wish to display it as one character, consider using a font with programming ligatures such as Fira Code.\", \"2.13.0\")\n    def ?[B](y: B): (A, B) \u003d -\u003e(y)\n  }\n\n  /** @group implicit-classes-any */\n  implicit final class Ensuring[A](private val self: A) extends AnyVal {\n    def ensuring(cond: Boolean): A \u003d { assert(cond); self }\n    def ensuring(cond: Boolean, msg: \u003d\u003e Any): A \u003d { assert(cond, msg); self }\n    def ensuring(cond: A \u003d\u003e Boolean): A \u003d { assert(cond(self)); self }\n    def ensuring(cond: A \u003d\u003e Boolean, msg: \u003d\u003e Any): A \u003d { assert(cond(self), msg); self }\n  }\n\n  /** @group implicit-classes-any */\n  implicit final class StringFormat[A](private val self: A) extends AnyVal {\n    /** Returns string formatted according to given `format` string.\n     *  Format strings are as for `String.format`\n     *  (@see java.lang.String.format).\n     */\n    @deprecated(\"Use `formatString.format(value)` instead of `value.formatted(formatString)`,\\nor use the `f\\\"\\\"` string interpolator. In Java 15 and later, `formatted` resolves to the new method in String which has reversed parameters.\", \"2.12.16\")\n    @inline def formatted(fmtstr: String): String \u003d fmtstr format self\n  }\n\n  /** Injects String concatenation operator `+` to any classes. \n   * @group implicit-classes-any\n   */\n  @(deprecated @companionMethod)(\"Implicit injection of + is deprecated. Convert to String to call +\", \"2.13.0\")\n  @(deprecated @companionClass)(\"Implicit injection of + is deprecated. Convert to String to call +\", \"2.13.0\") // for Scaladoc\n  // scala/bug#8229 retaining the pre 2.11 name for source compatibility in shadowing this implicit\n  implicit final class any2stringadd[A](private val self: A) extends AnyVal {\n    def +(other: String): String \u003d String.valueOf(self) + other\n  }\n\n  /** @group char-sequence-wrappers */\n  final class SeqCharSequence(sequenceOfChars: scala.collection.IndexedSeq[Char]) extends CharSequence {\n    def length: Int                                     \u003d sequenceOfChars.length\n    def charAt(index: Int): Char                        \u003d sequenceOfChars(index)\n    def subSequence(start: Int, end: Int): CharSequence \u003d new SeqCharSequence(sequenceOfChars.slice(start, end))\n    override def toString                               \u003d sequenceOfChars.mkString\n  }\n\n  /** @group char-sequence-wrappers */\n  def SeqCharSequence(sequenceOfChars: scala.collection.IndexedSeq[Char]): SeqCharSequence \u003d new SeqCharSequence(sequenceOfChars)\n\n  /** @group char-sequence-wrappers */\n  final class ArrayCharSequence(arrayOfChars: Array[Char]) extends CharSequence {\n    def length: Int                                     \u003d arrayOfChars.length\n    def charAt(index: Int): Char                        \u003d arrayOfChars(index)\n    def subSequence(start: Int, end: Int): CharSequence \u003d new runtime.ArrayCharSequence(arrayOfChars, start, end)\n    override def toString                               \u003d arrayOfChars.mkString\n  }\n\n  /** @group char-sequence-wrappers */\n  def ArrayCharSequence(arrayOfChars: Array[Char]): ArrayCharSequence \u003d new ArrayCharSequence(arrayOfChars)\n\n  /** @group conversions-string */\n  @inline implicit def augmentString(x: String): StringOps \u003d new StringOps(x)\n\n  // printing -----------------------------------------------------------\n\n  /** Prints an object to `out` using its `toString` method.\n   *\n   *  @param x the object to print; may be null.\n   *  @group console-output\n   */\n  def print(x: Any): Unit \u003d Console.print(x)\n\n  /** Prints a newline character on the default output.\n   *  @group console-output\n   */\n  def println(): Unit \u003d Console.println()\n\n  /** Prints out an object to the default output, followed by a newline character.\n   *\n   *  @param x the object to print.\n   *  @group console-output\n   */\n  def println(x: Any): Unit \u003d Console.println(x)\n\n  /** Prints its arguments as a formatted string to the default output,\n   *  based on a string pattern (in a fashion similar to printf in C).\n   *\n   *  The interpretation of the formatting patterns is described in\n   *  [[java.util.Formatter]].\n   *\n   *  Consider using the [[scala.StringContext.f f interpolator]] as more type safe and idiomatic.\n   *\n   *  @param text the pattern for formatting the arguments.\n   *  @param xs   the arguments used to instantiate the pattern.\n   *  @throws java.lang.IllegalArgumentException if there was a problem with the format string or arguments\n   *\n   *  @see [[scala.StringContext.f StringContext.f]]\n   *  @group console-output\n   */\n  def printf(text: String, xs: Any*): Unit \u003d Console.print(text.format(xs: _*))\n\n  // views --------------------------------------------------------------\n\n  // these two are morally deprecated but the @deprecated annotation has been moved to the extension method themselves,\n  // in order to provide a more specific deprecation method.\n  implicit def tuple2ToZippedOps[T1, T2](x: (T1, T2)): runtime.Tuple2Zipped.Ops[T1, T2]             \u003d new runtime.Tuple2Zipped.Ops(x)\n  implicit def tuple3ToZippedOps[T1, T2, T3](x: (T1, T2, T3)): runtime.Tuple3Zipped.Ops[T1, T2, T3] \u003d new runtime.Tuple3Zipped.Ops(x)\n\n  // Not specialized anymore since 2.13 but we still need separate methods\n  // to avoid https://github.com/scala/bug/issues/10746\n  // TODO: should not need @inline. add heuristic to inline factories for value classes.\n  @inline implicit def genericArrayOps[T](xs: Array[T]): ArrayOps[T]          \u003d new ArrayOps(xs)\n  @inline implicit def booleanArrayOps(xs: Array[Boolean]): ArrayOps[Boolean] \u003d new ArrayOps(xs)\n  @inline implicit def byteArrayOps(xs: Array[Byte]): ArrayOps[Byte]          \u003d new ArrayOps(xs)\n  @inline implicit def charArrayOps(xs: Array[Char]): ArrayOps[Char]          \u003d new ArrayOps(xs)\n  @inline implicit def doubleArrayOps(xs: Array[Double]): ArrayOps[Double]    \u003d new ArrayOps(xs)\n  @inline implicit def floatArrayOps(xs: Array[Float]): ArrayOps[Float]       \u003d new ArrayOps(xs)\n  @inline implicit def intArrayOps(xs: Array[Int]): ArrayOps[Int]             \u003d new ArrayOps(xs)\n  @inline implicit def longArrayOps(xs: Array[Long]): ArrayOps[Long]          \u003d new ArrayOps(xs)\n  @inline implicit def refArrayOps[T \u003c: AnyRef](xs: Array[T]): ArrayOps[T]    \u003d new ArrayOps(xs)\n  @inline implicit def shortArrayOps(xs: Array[Short]): ArrayOps[Short]       \u003d new ArrayOps(xs)\n  @inline implicit def unitArrayOps(xs: Array[Unit]): ArrayOps[Unit]          \u003d new ArrayOps(xs)\n\n  // \"Autoboxing\" and \"Autounboxing\" ---------------------------------------------------\n\n  /** @group conversions-anyval-to-java */\n  implicit def byte2Byte(x: Byte): java.lang.Byte             \u003d x.asInstanceOf[java.lang.Byte]\n  /** @group conversions-anyval-to-java */\n  implicit def short2Short(x: Short): java.lang.Short         \u003d x.asInstanceOf[java.lang.Short]\n  /** @group conversions-anyval-to-java */\n  implicit def char2Character(x: Char): java.lang.Character   \u003d x.asInstanceOf[java.lang.Character]\n  /** @group conversions-anyval-to-java */\n  implicit def int2Integer(x: Int): java.lang.Integer         \u003d x.asInstanceOf[java.lang.Integer]\n  /** @group conversions-anyval-to-java */\n  implicit def long2Long(x: Long): java.lang.Long             \u003d x.asInstanceOf[java.lang.Long]\n  /** @group conversions-anyval-to-java */\n  implicit def float2Float(x: Float): java.lang.Float         \u003d x.asInstanceOf[java.lang.Float]\n  /** @group conversions-anyval-to-java */\n  implicit def double2Double(x: Double): java.lang.Double     \u003d x.asInstanceOf[java.lang.Double]\n  /** @group conversions-anyval-to-java */\n  implicit def boolean2Boolean(x: Boolean): java.lang.Boolean \u003d x.asInstanceOf[java.lang.Boolean]\n\n  /** @group conversions-java-to-anyval */\n  implicit def Byte2byte(x: java.lang.Byte): Byte             \u003d x.asInstanceOf[Byte]\n  /** @group conversions-java-to-anyval */\n  implicit def Short2short(x: java.lang.Short): Short         \u003d x.asInstanceOf[Short]\n  /** @group conversions-java-to-anyval */\n  implicit def Character2char(x: java.lang.Character): Char   \u003d x.asInstanceOf[Char]\n  /** @group conversions-java-to-anyval */\n  implicit def Integer2int(x: java.lang.Integer): Int         \u003d x.asInstanceOf[Int]\n  /** @group conversions-java-to-anyval */\n  implicit def Long2long(x: java.lang.Long): Long             \u003d x.asInstanceOf[Long]\n  /** @group conversions-java-to-anyval */\n  implicit def Float2float(x: java.lang.Float): Float         \u003d x.asInstanceOf[Float]\n  /** @group conversions-java-to-anyval */\n  implicit def Double2double(x: java.lang.Double): Double     \u003d x.asInstanceOf[Double]\n  /** @group conversions-java-to-anyval */\n  implicit def Boolean2boolean(x: java.lang.Boolean): Boolean \u003d x.asInstanceOf[Boolean]\n\n  /** An implicit of type `A \u003d\u003e A` is available for all `A` because it can always\n   *  be implemented using the identity function. This also means that an\n   *  implicit of type `A \u003d\u003e B` is always available when `A \u003c: B`, because\n   *  `(A \u003d\u003e A) \u003c: (A \u003d\u003e B)`.\n   */\n  // $ to avoid accidental shadowing (e.g. scala/bug#7788)\n  implicit def $conforms[A]: A \u003d\u003e A \u003d \u003c:\u003c.refl\n}\n\n/** The `LowPriorityImplicits` class provides implicit values that\n*  are valid in all Scala compilation units without explicit qualification,\n*  but that are partially overridden by higher-priority conversions in object\n*  `Predef`.\n*/\n// scala/bug#7335 Parents of Predef are defined in the same compilation unit to avoid\n// cyclic reference errors compiling the standard library *without* a previously\n// compiled copy on the classpath.\nprivate[scala] abstract class LowPriorityImplicits extends LowPriorityImplicits2 {\n  import mutable.ArraySeq\n\n  /** We prefer the java.lang.* boxed types to these wrappers in\n   *  any potential conflicts.  Conflicts do exist because the wrappers\n   *  need to implement ScalaNumber in order to have a symmetric equals\n   *  method, but that implies implementing java.lang.Number as well.\n   *\n   *  Note - these are inlined because they are value classes, but\n   *  the call to xxxWrapper is not eliminated even though it does nothing.\n   *  Even inlined, every call site does a no-op retrieval of Predef\u0027s MODULE$\n   *  because maybe loading Predef has side effects!\n   */\n  @inline implicit def byteWrapper(x: Byte): runtime.RichByte          \u003d new runtime.RichByte(x)\n  @inline implicit def shortWrapper(x: Short): runtime.RichShort       \u003d new runtime.RichShort(x)\n  @inline implicit def intWrapper(x: Int): runtime.RichInt             \u003d new runtime.RichInt(x)\n  @inline implicit def charWrapper(c: Char): runtime.RichChar          \u003d new runtime.RichChar(c)\n  @inline implicit def longWrapper(x: Long): runtime.RichLong          \u003d new runtime.RichLong(x)\n  @inline implicit def floatWrapper(x: Float): runtime.RichFloat       \u003d new runtime.RichFloat(x)\n  @inline implicit def doubleWrapper(x: Double): runtime.RichDouble    \u003d new runtime.RichDouble(x)\n  @inline implicit def booleanWrapper(x: Boolean): runtime.RichBoolean \u003d new runtime.RichBoolean(x)\n\n  /** @group conversions-array-to-wrapped-array */\n  implicit def genericWrapArray[T](xs: Array[T]): ArraySeq[T] \u003d\n    if (xs eq null) null\n    else ArraySeq.make(xs)\n\n  // Since the JVM thinks arrays are covariant, one 0-length Array[AnyRef]\n  // is as good as another for all T \u003c: AnyRef.  Instead of creating 100,000,000\n  // unique ones by way of this implicit, let\u0027s share one.\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapRefArray[T \u003c: AnyRef](xs: Array[T]): ArraySeq.ofRef[T] \u003d {\n    if (xs eq null) null\n    else if (xs.length \u003d\u003d 0) ArraySeq.empty[AnyRef].asInstanceOf[ArraySeq.ofRef[T]]\n    else new ArraySeq.ofRef[T](xs)\n  }\n\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapIntArray(xs: Array[Int]): ArraySeq.ofInt \u003d if (xs ne null) new ArraySeq.ofInt(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapDoubleArray(xs: Array[Double]): ArraySeq.ofDouble \u003d if (xs ne null) new ArraySeq.ofDouble(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapLongArray(xs: Array[Long]): ArraySeq.ofLong \u003d if (xs ne null) new ArraySeq.ofLong(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapFloatArray(xs: Array[Float]): ArraySeq.ofFloat \u003d if (xs ne null) new ArraySeq.ofFloat(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapCharArray(xs: Array[Char]): ArraySeq.ofChar \u003d if (xs ne null) new ArraySeq.ofChar(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapByteArray(xs: Array[Byte]): ArraySeq.ofByte \u003d if (xs ne null) new ArraySeq.ofByte(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapShortArray(xs: Array[Short]): ArraySeq.ofShort \u003d if (xs ne null) new ArraySeq.ofShort(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapBooleanArray(xs: Array[Boolean]): ArraySeq.ofBoolean \u003d if (xs ne null) new ArraySeq.ofBoolean(xs) else null\n  /** @group conversions-array-to-wrapped-array */\n  implicit def wrapUnitArray(xs: Array[Unit]): ArraySeq.ofUnit \u003d if (xs ne null) new ArraySeq.ofUnit(xs) else null\n\n  /** @group conversions-string */\n  implicit def wrapString(s: String): WrappedString \u003d if (s ne null) new WrappedString(s) else null\n}\n\nprivate[scala] abstract class LowPriorityImplicits2 {\n  @deprecated(\"Implicit conversions from Array to immutable.IndexedSeq are implemented by copying; Use the more efficient non-copying ArraySeq.unsafeWrapArray or an explicit toIndexedSeq call\", \"2.13.0\")\n  implicit def copyArrayToImmutableIndexedSeq[T](xs: Array[T]): IndexedSeq[T] \u003d\n    if (xs eq null) null\n    else new ArrayOps(xs).toIndexedSeq\n}\n"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI.create(URI.java:852)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:177)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:174)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:153)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:174)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:684)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:681)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:339)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:39)
+	... 16 more
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parse(URI.java:3058)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URI.create(URI.java:850)
+	... 24 more
+
+Dec 18, 2023 12:29:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didClose",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///C%3A/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar%21/scala/Predef.scala"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI.create(URI.java:852)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:177)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$3(MtagsEnrichments.scala:174)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:153)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:174)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:684)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:681)
+	at scala.meta.internal.metals.WorkspaceLspService.didClose(WorkspaceLspService.scala:358)
+	at scala.meta.metals.lsp.DelegatingScalaService.didClose(DelegatingScalaService.scala:53)
+	... 16 more
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 28: jar:file:///C:/Users/ANJLEEN TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10-sources.jar!/scala/Predef.scala
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parse(URI.java:3058)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URI.create(URI.java:850)
+	... 24 more
+
+2023.12.18 12:29:33 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:29:33 INFO  time: compiled Scala_bd2c96d2de in 0.3s
+2023.12.18 12:29:44 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:29:44 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.18 12:29:55 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:29:55 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:29:58 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:29:58 INFO  time: compiled Scala_bd2c96d2de in 89ms
+2023.12.18 12:29:59 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:29:59 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+Dec 18, 2023 12:30:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
