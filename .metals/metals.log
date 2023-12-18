@@ -3432,3 +3432,9 @@ Dec 15, 2023 12:32:02 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$Xt
 WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
 Dec 15, 2023 12:33:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Dec 15, 2023 12:34:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.12.15 12:44:20 INFO  Shutting down server
+2023.12.15 12:44:20 INFO  shutting down Metals
+2023.12.15 12:44:20 INFO  Shut down connection with build server.
+2023.12.15 12:44:20 INFO  Exiting server
