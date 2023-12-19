@@ -4667,3 +4667,758 @@ INFO: Unsupported notification method: $/setTrace
 2023.12.18 12:55:10 INFO  shutting down Metals
 2023.12.18 12:55:10 INFO  Shut down connection with build server.
 2023.12.18 12:55:10 INFO  Exiting server
+2023.12.19 11:54:24 INFO  Started: Metals version 1.2.0 in folders 'D:\VIT Bhopal\VS Code\Scala' for client Visual Studio Code 1.85.1.
+2023.12.19 11:54:28 WARN  No build session currently active to reload.
+2023.12.19 11:54:28 INFO  Attempting to connect to the build server...
+2023.12.19 11:54:28 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.19 11:54:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Dec 19, 2023 11:54:28 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:28 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 19, 2023 11:54:28 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:28 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:29 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.19 11:54:31 INFO  no build target found for D:\VIT Bhopal\VS Code\Scala\Rational.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.19 11:54:34 INFO  BSP server: Starting compilation server
+2023.12.19 11:54:45 INFO  time: Connected to build server in 16s
+2023.12.19 11:54:45 INFO  Connected to Build server: scala-cli v1.0.6
+2023.12.19 11:54:45 INFO  time: Imported build in 0.19s
+2023.12.19 11:54:46 INFO  compiling scala_bd2c96d2de (20 scala sources)
+2023.12.19 11:54:46 INFO  time: indexed workspace in 1.44s
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:54:47 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.19 11:54:57 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.19 11:54:57 INFO  time: compiled Scala_bd2c96d2de in 11s
+2023.12.19 11:54:58 INFO  Cancelling compilation on scala-cli server
+2023.12.19 11:54:59 INFO  compiling scala_bd2c96d2de (20 scala sources)
+2023.12.19 11:55:03 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.19 11:55:03 INFO  time: compiled Scala_bd2c96d2de in 4.03s
+2023.12.19 11:55:03 INFO  time: Imported build in 5s
+2023.12.19 11:55:04 INFO  time: indexed workspace in 0.66s
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 11:55:04 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.19 12:03:36 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Fields.scala
+2023.12.19 12:03:36 INFO  Cancelling compilation on scala-cli server
+2023.12.19 12:03:37 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Fields.scala
+2023.12.19 12:03:37 INFO  time: indexed workspace in 0.62s
+2023.12.19 12:03:37 INFO  compiling scala_bd2c96d2de (21 scala sources)
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:38 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.19 12:03:38 INFO  Cancelling compilation on scala-cli server
+2023.12.19 12:03:39 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Fields.scala
+2023.12.19 12:03:40 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Fields.scala
+2023.12.19 12:03:42 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+Dec 19, 2023 12:03:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+2023.12.19 12:03:42 INFO  time: compiled Scala_bd2c96d2de in 5.2s
+2023.12.19 12:03:43 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:03:45 INFO  time: compiled Scala_bd2c96d2de in 1.21s
+2023.12.19 12:03:45 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:03:46 INFO  time: compiled Scala_bd2c96d2de in 0.94s
+2023.12.19 12:03:46 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:03:46 INFO  Cancelling compilation on scala-cli server
+2023.12.19 12:03:49 INFO  time: compiled Scala_bd2c96d2de in 2.25s
+2023.12.19 12:03:49 INFO  Deduplicating compilation of Scala_bd2c96d2de from bsp client 'scala-cli 1.0.6' (since 9m 5.391s)
+2023.12.19 12:03:49 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:03:49 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:03:50 INFO  time: compiled Scala_bd2c96d2de in 1.46s
+2023.12.19 12:03:51 INFO  time: Imported build in 12s
+2023.12.19 12:03:51 INFO  time: Imported build in 4.14s
+2023.12.19 12:03:52 INFO  time: indexed workspace in 1.19s
+2023.12.19 12:03:52 INFO  time: indexed workspace in 1.3s
+2023.12.19 12:03:52 INFO  compiling scala_bd2c96d2de (21 scala sources)
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:03:52 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.19 12:03:53 INFO  time: compiled Scala_bd2c96d2de in 1.35s
+error: D:\VIT Bhopal\VS Code\Scala\.metals\.tmp\.metals\.tmp\Main-6067564549127359404.scala is not a file
+2023.12.19 12:03:53 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:03:55 INFO  time: compiled Scala_bd2c96d2de in 0.68s
+2023.12.19 12:03:57 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:03:58 INFO  time: compiled Scala_bd2c96d2de in 1.24s
+2023.12.19 12:03:58 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:00 INFO  time: compiled Scala_bd2c96d2de in 0.89s
+2023.12.19 12:04:01 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:03 INFO  time: compiled Scala_bd2c96d2de in 1.79s
+2023.12.19 12:04:03 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:04 INFO  time: compiled Scala_bd2c96d2de in 0.73s
+2023.12.19 12:04:06 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:06 INFO  time: compiled Scala_bd2c96d2de in 0.74s
+2023.12.19 12:04:07 INFO  compiling scala_bd2c96d2de (21 scala sources)
+Dec 19, 2023 12:04:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 166
+2023.12.19 12:04:07 INFO  time: compiled Scala_bd2c96d2de in 0.8s
+2023.12.19 12:04:09 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:09 INFO  time: compiled Scala_bd2c96d2de in 0.73s
+2023.12.19 12:04:10 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:10 INFO  time: compiled Scala_bd2c96d2de in 0.58s
+2023.12.19 12:04:13 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:13 INFO  time: compiled Scala_bd2c96d2de in 0.58s
+2023.12.19 12:04:14 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:14 INFO  time: compiled Scala_bd2c96d2de in 0.57s
+2023.12.19 12:04:16 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:16 INFO  time: compiled Scala_bd2c96d2de in 0.81s
+2023.12.19 12:04:19 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:20 INFO  time: compiled Scala_bd2c96d2de in 1s
+2023.12.19 12:04:20 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:21 INFO  time: compiled Scala_bd2c96d2de in 0.53s
+2023.12.19 12:04:22 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:22 INFO  time: compiled Scala_bd2c96d2de in 0.88s
+2023.12.19 12:04:24 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:24 INFO  time: compiled Scala_bd2c96d2de in 0.91s
+2023.12.19 12:04:26 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:26 INFO  time: compiled Scala_bd2c96d2de in 0.81s
+2023.12.19 12:04:27 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:29 INFO  time: compiled Scala_bd2c96d2de in 1.48s
+2023.12.19 12:04:29 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:31 INFO  time: compiled Scala_bd2c96d2de in 1.05s
+2023.12.19 12:04:31 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:32 INFO  time: compiled Scala_bd2c96d2de in 0.55s
+2023.12.19 12:04:32 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:33 INFO  time: compiled Scala_bd2c96d2de in 0.69s
+2023.12.19 12:04:33 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:34 INFO  time: compiled Scala_bd2c96d2de in 0.56s
+2023.12.19 12:04:34 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:36 INFO  time: compiled Scala_bd2c96d2de in 0.57s
+2023.12.19 12:04:38 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:38 INFO  time: compiled Scala_bd2c96d2de in 0.79s
+2023.12.19 12:04:40 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:40 INFO  time: compiled Scala_bd2c96d2de in 0.75s
+2023.12.19 12:04:41 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:41 INFO  time: compiled Scala_bd2c96d2de in 0.59s
+2023.12.19 12:04:43 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:43 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:04:45 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:45 INFO  time: compiled Scala_bd2c96d2de in 0.76s
+2023.12.19 12:04:46 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:46 INFO  time: compiled Scala_bd2c96d2de in 0.51s
+2023.12.19 12:04:47 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:47 INFO  time: compiled Scala_bd2c96d2de in 0.55s
+2023.12.19 12:04:49 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:49 INFO  time: compiled Scala_bd2c96d2de in 0.58s
+2023.12.19 12:04:50 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:50 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:04:52 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string interpolation
+    override def toString = s"$"
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:04:52 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:52 INFO  time: compiled Scala_bd2c96d2de in 0.5s
+2023.12.19 12:04:53 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string interpolation
+    override def toString = s"$"
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:04:53 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string interpolation
+    override def toString = s"$"
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:04:53 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:53 INFO  time: compiled Scala_bd2c96d2de in 0.49s
+2023.12.19 12:04:54 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string interpolation
+    override def toString = s"$"
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:04:55 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:55 INFO  time: compiled Scala_bd2c96d2de in 0.54s
+Dec 19, 2023 12:04:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 419
+2023.12.19 12:04:57 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:57 INFO  time: compiled Scala_bd2c96d2de in 0.85s
+2023.12.19 12:04:58 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:04:58 INFO  time: compiled Scala_bd2c96d2de in 0.42s
+2023.12.19 12:05:00 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:00 INFO  time: compiled Scala_bd2c96d2de in 0.61s
+2023.12.19 12:05:02 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:02 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:05:03 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:03 INFO  time: compiled Scala_bd2c96d2de in 0.57s
+2023.12.19 12:05:04 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:04 INFO  time: compiled Scala_bd2c96d2de in 0.61s
+2023.12.19 12:05:06 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:06 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:05:07 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:07 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:05:10 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:10 INFO  time: compiled Scala_bd2c96d2de in 0.92s
+2023.12.19 12:05:11 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:11 INFO  time: compiled Scala_bd2c96d2de in 0.51s
+2023.12.19 12:05:12 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:12 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:05:18 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:18 INFO  time: compiled Scala_bd2c96d2de in 0.65s
+2023.12.19 12:05:20 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:20 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:05:21 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:21 INFO  time: compiled Scala_bd2c96d2de in 0.5s
+2023.12.19 12:05:23 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:23 INFO  time: compiled Scala_bd2c96d2de in 0.52s
+2023.12.19 12:05:24 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:24 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:05:26 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:27 INFO  time: compiled Scala_bd2c96d2de in 1.03s
+2023.12.19 12:05:27 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:29 INFO  time: compiled Scala_bd2c96d2de in 0.69s
+2023.12.19 12:05:30 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:30 INFO  time: compiled Scala_bd2c96d2de in 0.42s
+2023.12.19 12:05:31 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:31 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:05:33 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:33 INFO  time: compiled Scala_bd2c96d2de in 0.81s
+2023.12.19 12:05:35 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:35 INFO  time: compiled Scala_bd2c96d2de in 0.93s
+2023.12.19 12:05:37 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:37 INFO  time: compiled Scala_bd2c96d2de in 0.53s
+2023.12.19 12:05:38 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:38 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:05:41 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:41 INFO  time: compiled Scala_bd2c96d2de in 0.49s
+2023.12.19 12:05:42 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:42 INFO  time: compiled Scala_bd2c96d2de in 0.51s
+2023.12.19 12:05:46 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:46 INFO  time: compiled Scala_bd2c96d2de in 0.63s
+2023.12.19 12:05:48 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:48 INFO  time: compiled Scala_bd2c96d2de in 0.54s
+2023.12.19 12:05:49 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:49 INFO  time: compiled Scala_bd2c96d2de in 0.46s
+2023.12.19 12:05:53 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:53 INFO  time: compiled Scala_bd2c96d2de in 0.51s
+2023.12.19 12:05:58 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:58 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:05:59 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:05:59 INFO  time: compiled Scala_bd2c96d2de in 0.45s
+2023.12.19 12:06:01 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:01 INFO  time: compiled Scala_bd2c96d2de in 0.46s
+2023.12.19 12:06:02 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:02 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:06:04 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:04 INFO  time: compiled Scala_bd2c96d2de in 0.54s
+2023.12.19 12:06:05 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:05 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:06:06 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:06 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:06:08 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:08 INFO  time: compiled Scala_bd2c96d2de in 0.73s
+2023.12.19 12:06:10 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:10 INFO  time: compiled Scala_bd2c96d2de in 0.76s
+2023.12.19 12:06:11 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:11 INFO  time: compiled Scala_bd2c96d2de in 0.5s
+2023.12.19 12:06:13 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:13 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:06:19 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:19 INFO  time: compiled Scala_bd2c96d2de in 0.5s
+2023.12.19 12:06:22 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:22 INFO  time: compiled Scala_bd2c96d2de in 0.42s
+2023.12.19 12:06:25 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:25 INFO  time: compiled Scala_bd2c96d2de in 0.54s
+2023.12.19 12:06:26 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:26 INFO  time: compiled Scala_bd2c96d2de in 0.52s
+2023.12.19 12:06:28 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:29 INFO  time: compiled Scala_bd2c96d2de in 1.01s
+2023.12.19 12:06:29 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:30 INFO  time: compiled Scala_bd2c96d2de in 0.45s
+2023.12.19 12:06:30 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:32 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:06:32 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:33 INFO  time: compiled Scala_bd2c96d2de in 0.63s
+2023.12.19 12:06:33 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:34 INFO  time: compiled Scala_bd2c96d2de in 0.54s
+2023.12.19 12:06:34 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:36 INFO  time: compiled Scala_bd2c96d2de in 0.41s
+2023.12.19 12:06:36 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:37 INFO  time: compiled Scala_bd2c96d2de in 0.6s
+2023.12.19 12:06:37 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:38 INFO  time: compiled Scala_bd2c96d2de in 0.44s
+2023.12.19 12:06:38 INFO  compiling scala_bd2c96d2de (21 scala sources)
+Dec 19, 2023 12:06:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 893
+2023.12.19 12:06:40 INFO  time: compiled Scala_bd2c96d2de in 0.89s
+2023.12.19 12:06:40 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:41 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:06:41 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:42 INFO  time: compiled Scala_bd2c96d2de in 0.41s
+2023.12.19 12:06:42 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:43 INFO  time: compiled Scala_bd2c96d2de in 0.42s
+2023.12.19 12:06:45 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:45 INFO  time: compiled Scala_bd2c96d2de in 0.44s
+2023.12.19 12:06:46 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:46 INFO  time: compiled Scala_bd2c96d2de in 0.43s
+2023.12.19 12:06:48 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:48 INFO  time: compiled Scala_bd2c96d2de in 0.49s
+2023.12.19 12:06:49 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:49 INFO  time: compiled Scala_bd2c96d2de in 0.54s
+2023.12.19 12:06:50 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:50 INFO  time: compiled Scala_bd2c96d2de in 0.42s
+2023.12.19 12:06:53 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:53 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:06:54 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:54 INFO  time: compiled Scala_bd2c96d2de in 0.44s
+2023.12.19 12:06:55 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:55 INFO  time: compiled Scala_bd2c96d2de in 0.46s
+2023.12.19 12:06:57 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:57 INFO  time: compiled Scala_bd2c96d2de in 0.51s
+2023.12.19 12:06:59 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:06:59 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:07:00 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:00 INFO  time: compiled Scala_bd2c96d2de in 0.46s
+2023.12.19 12:07:02 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:02 INFO  time: compiled Scala_bd2c96d2de in 0.45s
+2023.12.19 12:07:03 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:03 INFO  time: compiled Scala_bd2c96d2de in 0.45s
+2023.12.19 12:07:05 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:05 INFO  time: compiled Scala_bd2c96d2de in 0.44s
+2023.12.19 12:07:09 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:09 INFO  time: compiled Scala_bd2c96d2de in 0.49s
+2023.12.19 12:07:11 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:11 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:07:12 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:12 INFO  time: compiled Scala_bd2c96d2de in 0.39s
+2023.12.19 12:07:14 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:14 INFO  time: compiled Scala_bd2c96d2de in 0.45s
+2023.12.19 12:07:15 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:15 INFO  time: compiled Scala_bd2c96d2de in 0.72s
+2023.12.19 12:07:16 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:16 INFO  time: compiled Scala_bd2c96d2de in 0.44s
+2023.12.19 12:07:17 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:17 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:07:18 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:18 INFO  time: compiled Scala_bd2c96d2de in 0.41s
+2023.12.19 12:07:22 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:22 INFO  time: compiled Scala_bd2c96d2de in 0.86s
+2023.12.19 12:07:24 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:24 INFO  time: compiled Scala_bd2c96d2de in 0.69s
+2023.12.19 12:07:26 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:26 INFO  time: compiled Scala_bd2c96d2de in 0.62s
+2023.12.19 12:07:27 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:27 INFO  time: compiled Scala_bd2c96d2de in 0.57s
+2023.12.19 12:07:28 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:28 INFO  time: compiled Scala_bd2c96d2de in 0.43s
+2023.12.19 12:07:30 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:30 INFO  time: compiled Scala_bd2c96d2de in 0.65s
+2023.12.19 12:07:31 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:31 INFO  time: compiled Scala_bd2c96d2de in 0.46s
+2023.12.19 12:07:33 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Fields.scala
+2023.12.19 12:07:33 INFO  time: compiled Scala_bd2c96d2de in 0.7s
+2023.12.19 12:07:35 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:35 INFO  time: compiled Scala_bd2c96d2de in 0.52s
+2023.12.19 12:07:36 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:36 INFO  time: compiled Scala_bd2c96d2de in 0.43s
+2023.12.19 12:07:39 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:39 INFO  time: compiled Scala_bd2c96d2de in 0.49s
+2023.12.19 12:07:40 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:40 INFO  time: compiled Scala_bd2c96d2de in 0.55s
+2023.12.19 12:07:42 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:42 INFO  time: compiled Scala_bd2c96d2de in 0.45s
+2023.12.19 12:07:43 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:43 INFO  time: compiled Scala_bd2c96d2de in 0.42s
+2023.12.19 12:07:57 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:57 INFO  time: compiled Scala_bd2c96d2de in 0.5s
+2023.12.19 12:07:58 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:07:58 INFO  time: compiled Scala_bd2c96d2de in 0.52s
+2023.12.19 12:08:00 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:08:00 INFO  time: compiled Scala_bd2c96d2de in 0.62s
+2023.12.19 12:08:02 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:08:02 INFO  time: compiled Scala_bd2c96d2de in 0.83s
+2023.12.19 12:08:03 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:08:03 INFO  time: compiled Scala_bd2c96d2de in 0.47s
+2023.12.19 12:08:05 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:08:05 INFO  time: compiled Scala_bd2c96d2de in 0.51s
+2023.12.19 12:10:37 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:10:37 INFO  time: compiled Scala_bd2c96d2de in 0.55s
+2023.12.19 12:10:53 INFO  compiling scala_bd2c96d2de (21 scala sources)
+2023.12.19 12:10:55 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2023.12.19 12:10:55 INFO  time: compiled Scala_bd2c96d2de in 2.12s
+2023.12.19 12:10:56 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.19 12:10:56 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.19 12:10:56 INFO  time: compiled Scala_bd2c96d2de in 0.25s
+2023.12.19 12:14:26 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:26 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:26 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.19 12:14:27 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:32 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:32 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:32 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:32 INFO  time: compiled Scala_bd2c96d2de in 0.48s
+2023.12.19 12:14:33 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:33 INFO  time: compiled Scala_bd2c96d2de in 0.25s
+2023.12.19 12:14:34 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:33 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:33 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.19 12:14:34 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:36 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:36 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:36 INFO  time: compiled Scala_bd2c96d2de in 0.25s
+2023.12.19 12:14:36 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:37 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.19 12:14:37 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:37 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:37 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:14:38 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:37 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:38 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:14:38 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:39 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:39 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:39 INFO  time: compiled Scala_bd2c96d2de in 0.15s
+2023.12.19 12:14:39 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:39 INFO  time: compiled Scala_bd2c96d2de in 0.18s
+2023.12.19 12:14:41 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:41 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:41 INFO  time: compiled Scala_bd2c96d2de in 78ms
+2023.12.19 12:14:41 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:41 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+Dec 19, 2023 12:14:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1481
+2023.12.19 12:14:42 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:42 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:14:42 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:42 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:42 INFO  time: compiled Scala_bd2c96d2de in 99ms
+2023.12.19 12:14:43 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:43 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:43 INFO  time: compiled Scala_bd2c96d2de in 88ms
+2023.12.19 12:14:44 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:45 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:45 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:14:45 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:45 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:45 INFO  time: compiled Scala_bd2c96d2de in 97ms
+2023.12.19 12:14:46 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:46 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:14:46 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:47 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:46 INFO  time: compiled Scala_bd2c96d2de in 89ms
+2023.12.19 12:14:47 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:47 INFO  time: compiled Scala_bd2c96d2de in 95ms
+2023.12.19 12:14:48 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:47 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:47 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:14:49 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:49 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.19 12:14:49 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:49 INFO  time: compiled Scala_bd2c96d2de in 82ms
+2023.12.19 12:14:50 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:50 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:50 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.19 12:14:50 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:50 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:50 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:14:51 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:51 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:51 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:14:51 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:53 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:53 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:53 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:14:53 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:53 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.19 12:14:54 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:54 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:54 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.19 12:14:54 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:54 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:54 INFO  time: compiled Scala_bd2c96d2de in 87ms
+2023.12.19 12:14:55 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:55 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.19 12:14:55 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:56 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:55 INFO  time: compiled Scala_bd2c96d2de in 92ms
+2023.12.19 12:14:56 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:56 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:56 INFO  time: compiled Scala_bd2c96d2de in 99ms
+2023.12.19 12:14:57 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:56 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:56 INFO  time: compiled Scala_bd2c96d2de in 90ms
+2023.12.19 12:14:58 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:58 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.19 12:14:58 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:14:58 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:14:58 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:14:59 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:00 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:00 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:00 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:15:01 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:00 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:00 INFO  time: compiled Scala_bd2c96d2de in 90ms
+2023.12.19 12:15:01 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:01 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:02 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:02 INFO  time: compiled Scala_bd2c96d2de in 74ms
+2023.12.19 12:15:02 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:03 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:03 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:15:03 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:03 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:15:04 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:04 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:04 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:04 INFO  time: compiled Scala_bd2c96d2de in 84ms
+2023.12.19 12:15:04 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:07 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:07 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:15:07 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:07 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:07 INFO  time: compiled Scala_bd2c96d2de in 96ms
+2023.12.19 12:15:08 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:08 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:15:08 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:08 INFO  time: compiled Scala_bd2c96d2de in 89ms
+2023.12.19 12:15:09 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:09 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.19 12:15:10 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:09 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:09 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.19 12:15:10 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:10 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:10 INFO  time: compiled Scala_bd2c96d2de in 84ms
+2023.12.19 12:15:10 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:10 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.19 12:15:11 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:12 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:12 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.19 12:15:12 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:12 INFO  time: compiled Scala_bd2c96d2de in 94ms
+2023.12.19 12:15:13 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:13 INFO  time: compiled Scala_bd2c96d2de in 92ms
+2023.12.19 12:15:13 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:13 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:13 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:15:14 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:14 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:14 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:15:14 INFO  compiling scala_bd2c96d2de (2 scala sources)
+2023.12.19 12:15:14 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+2023.12.19 12:15:14 INFO  time: compiled Scala_bd2c96d2de in 96ms
+2023.12.19 12:15:14 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Fields.scala
+Dec 19, 2023 12:15:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
