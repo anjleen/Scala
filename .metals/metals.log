@@ -4612,3 +4612,58 @@ Caused by: java.net.URISyntaxException: Illegal character in opaque part at inde
 2023.12.18 12:29:59 INFO  time: compiled Scala_bd2c96d2de in 0.19s
 Dec 18, 2023 12:30:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Dec 18, 2023 12:33:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.12.18 12:44:45 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:44:46 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:44:46 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:44:46 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:44:46 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:44:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:44:47 INFO  time: compiled Scala_bd2c96d2de in 90ms
+2023.12.18 12:44:47 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:44:48 INFO  time: compiled Scala_bd2c96d2de in 0.2s
+2023.12.18 12:44:50 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:44:50 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:44:50 INFO  time: compiled Scala_bd2c96d2de in 0.23s
+2023.12.18 12:47:54 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:47:54 INFO  time: compiled Scala_bd2c96d2de in 0.22s
+2023.12.18 12:47:55 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:47:55 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:47:55 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:47:55 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:47:55 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.18 12:47:56 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:47:56 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.18 12:47:57 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:47:56 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:47:56 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.18 12:47:57 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:47:59 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:47:59 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:47:59 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:47:59 INFO  time: compiled Scala_bd2c96d2de in 0.4s
+2023.12.18 12:48:00 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:47:59 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:48:00 INFO  time: compiled Scala_bd2c96d2de in 0.4s
+2023.12.18 12:48:00 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:48:01 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:48:01 INFO  time: compiled Scala_bd2c96d2de in 0.68s
+2023.12.18 12:48:02 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:48:01 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:48:01 INFO  time: compiled Scala_bd2c96d2de in 0.19s
+2023.12.18 12:48:24 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:48:24 INFO  time: compiled Scala_bd2c96d2de in 0.28s
+Dec 18, 2023 12:49:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.12.18 12:49:21 WARN  Could not load snapshot text for D:\VIT Bhopal\VS Code\Scala\Rational.scala
+2023.12.18 12:49:21 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:49:21 INFO  time: compiled Scala_bd2c96d2de in 0.33s
+2023.12.18 12:49:37 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:49:37 INFO  time: compiled Scala_bd2c96d2de in 89ms
+2023.12.18 12:49:51 INFO  compiling scala_bd2c96d2de (1 scala source)
+2023.12.18 12:49:51 INFO  time: compiled Scala_bd2c96d2de in 0.25s
+2023.12.18 12:55:10 INFO  Shutting down server
+2023.12.18 12:55:10 INFO  shutting down Metals
+2023.12.18 12:55:10 INFO  Shut down connection with build server.
+2023.12.18 12:55:10 INFO  Exiting server
