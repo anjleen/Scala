@@ -6083,3 +6083,292 @@ scala.meta.tokenizers.TokenizeException: <input>:19: error: unclosed string inte
 2023.12.19 12:27:31 INFO  time: compiled Scala_bd2c96d2de in 84ms
 2023.12.19 12:29:34 INFO  compiling scala_bd2c96d2de (3 scala sources)
 2023.12.19 12:29:34 INFO  time: compiled Scala_bd2c96d2de in 98ms
+2023.12.19 12:44:18 INFO  compiling scala_bd2c96d2de (3 scala sources)
+2023.12.19 12:44:18 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.19 12:49:48 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:49:48 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:49:48 INFO  time: compiled Scala_bd2c96d2de in 0.27s
+2023.12.19 12:49:48 INFO  Cancelling compilation on scala-cli server
+2023.12.19 12:49:48 INFO  time: indexed workspace in 0.88s
+2023.12.19 12:49:48 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:49:48 INFO  compiling scala_bd2c96d2de (4 scala sources)
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:49 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.19 12:49:50 INFO  time: compiled Scala_bd2c96d2de in 1.14s
+2023.12.19 12:49:50 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:49:50 INFO  time: compiled Scala_bd2c96d2de in 4ms
+2023.12.19 12:49:50 INFO  Cancelling compilation on scala-cli server
+2023.12.19 12:49:50 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:49:50 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:49:50 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:49:50 INFO  time: Imported build in 1.54s
+2023.12.19 12:49:50 INFO  time: Imported build in 0.22s
+2023.12.19 12:49:50 INFO  time: indexed workspace in 0.42s
+2023.12.19 12:49:50 INFO  time: indexed workspace in 0.45s
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 19, 2023 12:49:51 PM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.19 12:49:51 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:49:51 INFO  time: compiled Scala_bd2c96d2de in 0.4s
+2023.12.19 12:49:51 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:49:51 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:49:52 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:49:52 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:50:20 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Instance.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: Invalid literal number
+    val myObject = new MyClass(42cl)
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:50:21 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:21 INFO  time: compiled Scala_bd2c96d2de in 0.14s
+2023.12.19 12:50:20 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Instance.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: Invalid literal number
+    val myObject = new MyClass(42cl)
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:50:21 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:21 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:50:21 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Instance.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: Invalid literal number
+    val myObject = new MyClass(42cl)
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:50:22 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Instance.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: Invalid literal number
+    val myObject = new MyClass(42c)
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:50:23 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:23 INFO  time: compiled Scala_bd2c96d2de in 93ms
+2023.12.19 12:50:23 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Instance.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: Invalid literal number
+    val myObject = new MyClass(42c)
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.19 12:50:24 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:24 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.19 12:50:32 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:50:33 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:50:33 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:33 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:50:33 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:50:33 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:50:33 INFO  time: compiled Scala_bd2c96d2de in 0.16s
+2023.12.19 12:50:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:50:34 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:34 INFO  time: compiled Scala_bd2c96d2de in 92ms
+2023.12.19 12:50:35 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Rational2.scala
+2023.12.19 12:50:34 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:34 INFO  time: compiled Scala_bd2c96d2de in 79ms
+2023.12.19 12:50:35 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:35 INFO  time: compiled Scala_bd2c96d2de in 77ms
+2023.12.19 12:50:35 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:35 INFO  time: compiled Scala_bd2c96d2de in 0.12s
+2023.12.19 12:50:37 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:37 INFO  time: compiled Scala_bd2c96d2de in 87ms
+2023.12.19 12:50:37 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:37 INFO  time: compiled Scala_bd2c96d2de in 0.1s
+2023.12.19 12:50:41 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:50:41 INFO  time: compiled Scala_bd2c96d2de in 0.11s
+2023.12.19 12:51:32 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:51:32 INFO  time: compiled Scala_bd2c96d2de in 0.38s
+2023.12.19 12:51:38 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:51:38 INFO  time: compiled Scala_bd2c96d2de in 0.32s
+2023.12.19 12:51:49 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:51:49 INFO  time: compiled Scala_bd2c96d2de in 0.45s
+2023.12.19 12:51:56 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:51:56 INFO  time: compiled Scala_bd2c96d2de in 0.42s
+2023.12.19 12:51:56 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:51:58 INFO  time: compiled Scala_bd2c96d2de in 0.34s
+2023.12.19 12:52:06 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:52:06 INFO  time: compiled Scala_bd2c96d2de in 0.36s
+2023.12.19 12:52:11 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:52:11 INFO  time: compiled Scala_bd2c96d2de in 0.13s
+2023.12.19 12:52:16 INFO  compiling scala_bd2c96d2de (4 scala sources)
+2023.12.19 12:52:16 INFO  time: compiled Scala_bd2c96d2de in 90ms
+2023.12.19 12:53:19 INFO  Shutting down server
+2023.12.19 12:53:19 INFO  shutting down Metals
+2023.12.19 12:53:19 INFO  Shut down connection with build server.
+2023.12.19 12:53:19 INFO  Exiting server
