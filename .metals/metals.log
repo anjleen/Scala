@@ -7664,3 +7664,598 @@ java.util.concurrent.TimeoutException
 2023.12.21 21:43:02 INFO  Shutting down server
 2023.12.21 21:43:02 INFO  shutting down Metals
 2023.12.21 21:43:02 INFO  Exiting server
+2023.12.26 11:54:47 INFO  Started: Metals version 1.2.0 in folders 'D:\VIT Bhopal\VS Code\Scala' for client Visual Studio Code 1.85.1.
+2023.12.26 11:54:50 WARN  No build session currently active to reload.
+2023.12.26 11:54:50 INFO  Attempting to connect to the build server...
+2023.12.26 11:54:50 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.26 11:54:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Dec 26, 2023 11:54:50 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 26, 2023 11:54:50 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Dec 26, 2023 11:54:50 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 26, 2023 11:54:50 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Dec 26, 2023 11:54:51 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2023.12.26 11:54:58 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.26 11:54:58 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.26 11:54:58 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.26 11:54:58 INFO  no build target found for D:\VIT Bhopal\VS Code\Scala\GCD.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.26 11:55:03 INFO  BSP server: Still downloading:
+2023.12.26 11:55:03 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (75.90 %, 1142976 / 1505841)
+2023.12.26 11:55:03 INFO  BSP server: 
+2023.12.26 11:55:03 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2023.12.26 11:55:08 INFO  BSP server: Starting compilation server
+2023.12.26 11:55:49 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2023.12.26 11:55:49 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1703571949-772670398389900029.log'
+2023.12.26 11:55:49 INFO  BSP server: Running
+2023.12.26 11:55:49 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2023.12.26 11:55:49 INFO  BSP server: might give more details.
+2023.12.26 11:55:50 ERROR Timeout waiting for 'build/initialize' response
+2023.12.26 11:55:50 WARN  Retrying connection to the build server scala-cli
+2023.12.26 11:55:50 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.26 11:55:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.26 11:55:52 INFO  BSP server: Starting compilation server
+2023.12.26 11:56:29 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/EvenOddCheck.scala
+2023.12.26 11:56:29 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2023.12.26 11:56:29 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1703571989-5392966411177606850.log'
+2023.12.26 11:56:29 INFO  BSP server: Running
+2023.12.26 11:56:29 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2023.12.26 11:56:29 INFO  BSP server: might give more details.
+2023.12.26 11:56:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:35 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/EvenOddCheck.scala
+2023.12.26 11:56:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:35 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/EvenOddCheck.scala
+2023.12.26 11:56:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:36 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/EvenOddCheck.scala
+Dec 26, 2023 11:56:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2023.12.26 11:56:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:37 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/EvenOddCheck.scala
+2023.12.26 11:56:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:45 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:45 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:50 ERROR Timeout waiting for 'build/initialize' response
+2023.12.26 11:56:50 WARN  Retrying connection to the build server scala-cli
+2023.12.26 11:56:50 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.26 11:56:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.26 11:56:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:52 INFO  BSP server: Starting compilation server
+2023.12.26 11:56:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:56:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 11:57:10 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/EvenOddCheck.scala
+2023.12.26 11:57:29 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2023.12.26 11:57:29 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1703572049-7703282190415923764.log'
+2023.12.26 11:57:29 INFO  BSP server: Running
+2023.12.26 11:57:29 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2023.12.26 11:57:29 INFO  BSP server: might give more details.
+2023.12.26 11:57:50 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:50 ERROR Timeout waiting for 'build/initialize' response
+2023.12.26 11:57:50 WARN  Retrying connection to the build server scala-cli
+2023.12.26 11:57:50 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.26 11:57:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.26 11:57:53 INFO  BSP server: Starting compilation server
+2023.12.26 11:57:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:53 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:55 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Factorial.scala
+2023.12.26 11:57:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:57:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:30 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2023.12.26 11:58:30 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1703572110-16423874277223762011.log'
+2023.12.26 11:58:30 INFO  BSP server: Running
+2023.12.26 11:58:30 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2023.12.26 11:58:30 INFO  BSP server: might give more details.
+2023.12.26 11:58:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:50 ERROR Timeout waiting for 'build/initialize' response
+2023.12.26 11:58:50 WARN  Retrying connection to the build server scala-cli
+2023.12.26 11:58:50 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.26 11:58:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.26 11:58:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:52 INFO  BSP server: Starting compilation server
+2023.12.26 11:58:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:58:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:29 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2023.12.26 11:59:29 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1703572169-7010319142506176031.log'
+2023.12.26 11:59:29 INFO  BSP server: Running
+2023.12.26 11:59:29 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2023.12.26 11:59:29 INFO  BSP server: might give more details.
+2023.12.26 11:59:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:50 ERROR Timeout waiting for 'build/initialize' response
+2023.12.26 11:59:50 WARN  Retrying connection to the build server scala-cli
+2023.12.26 11:59:50 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2023.12.26 11:59:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.26 11:59:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:53 INFO  BSP server: Starting compilation server
+2023.12.26 11:59:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 11:59:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:08 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: unclosed string interpolation
+    println(s"Factorial of $")
+              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.26 12:00:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:14 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: unclosed string interpolation
+    println(s"Factorial of $number is $")
+                                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:249)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 26, 2023 12:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 978
+2023.12.26 12:00:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:31 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2023.12.26 12:00:31 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1703572231-49372797163939034.log'
+2023.12.26 12:00:31 INFO  BSP server: Running
+2023.12.26 12:00:31 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2023.12.26 12:00:31 INFO  BSP server: might give more details.
+2023.12.26 12:00:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:50 ERROR Timeout waiting for 'build/initialize' response
+2023.12.26 12:00:50 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:640)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:533)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.26 12:00:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:00:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\EvenOddCheck.scala
+2023.12.26 12:00:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\GCD.scala
+2023.12.26 12:01:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:29 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: Invalid literal number
+    7val number = 
+    ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.26 12:01:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:01:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:02:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:03:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+2023.12.26 12:05:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
+Dec 26, 2023 12:09:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
