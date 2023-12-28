@@ -12000,3 +12000,311 @@ scala.meta.tokenizers.TokenizeException: <input>:14: error: unclosed string inte
 2023.12.28 12:13:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Factorial.scala
 Dec 28, 2023 12:13:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.12.28 12:19:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:04 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:04 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:07 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:09 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:09 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:11 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:11 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:11 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:13 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:13 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:13 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:13 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:16 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:16 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:16 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:23 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:19:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:00 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Match.scala
+2023.12.28 12:19:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:45 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:20:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:49 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Match.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: invalid escape character
+    val day = "Mon\day"
+                   ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:21:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:50 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Match.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: invalid escape character
+    val day = "Mon\day"
+                   ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:21:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:21:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
