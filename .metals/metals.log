@@ -12308,3 +12308,1286 @@ scala.meta.tokenizers.TokenizeException: <input>:2: error: invalid escape charac
 2023.12.28 12:21:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
 2023.12.28 12:21:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
 2023.12.28 12:21:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Match.scala
+2023.12.28 12:28:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:31 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:32 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:28:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:28:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:19 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0v
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:19 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:20 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:20 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var 
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:21 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var f
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:22 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var fo
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:22 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var fou
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:22 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foun
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:22 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var found
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:23 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundI
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:23 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:23 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:24 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:24 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt 
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:25 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt =
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:26 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt = 
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:25 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt = f
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:26 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt = fa
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:26 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt = fals
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:27 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt = fals
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:27 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:2: error: Invalid literal number
+    var i = 0var foundIt = false
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchZero$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:332)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:29:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:45 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:45 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+Dec 28, 2023 12:29:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.nio.file.FileSystemNotFoundException: C:\Users\ANJLEEN%2520TIRKEY\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10-sources.jar
+java.util.concurrent.CompletionException: java.nio.file.FileSystemNotFoundException: C:\Users\ANJLEEN%2520TIRKEY\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10-sources.jar
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.nio.file.FileSystemNotFoundException: C:\Users\ANJLEEN%2520TIRKEY\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10-sources.jar
+	at com.sun.nio.zipfs.ZipFileSystem.<init>(ZipFileSystem.java:120)
+	at com.sun.nio.zipfs.ZipFileSystemProvider.newFileSystem(ZipFileSystemProvider.java:117)
+	at java.nio.file.FileSystems.newFileSystem(FileSystems.java:326)
+	at java.nio.file.FileSystems.newFileSystem(FileSystems.java:276)
+	at scala.meta.internal.io.PlatformFileIO$.newFileSystem(PlatformFileIO.scala:104)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:126)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.$anonfun$toAbsolutePath$4(MtagsEnrichments.scala:181)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.withTryDecode$1(MtagsEnrichments.scala:158)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:181)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:684)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:681)
+	at scala.meta.internal.metals.Compilers.$anonfun$definition$3(Compilers.scala:804)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionJavaList.map(MetalsEnrichments.scala:271)
+	at scala.meta.internal.metals.Compilers.$anonfun$definition$2(Compilers.scala:803)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.12.28 12:29:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:29:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:30:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+Dec 28, 2023 12:31:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2665
+2023.12.28 12:31:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:45 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:45 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:31:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:32:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:36:47 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:37:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:38:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:38:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:39:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:05 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:06 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:12 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+Dec 28, 2023 12:40:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3171
+2023.12.28 12:40:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:40:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+Dec 28, 2023 12:40:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3206
+2023.12.28 12:40:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:41:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:41:44 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:41:46 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:41:50 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:41:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+Dec 28, 2023 12:41:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3281
+2023.12.28 12:42:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:04 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:09 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:16 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:18 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:19 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:20 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:21 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:22 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:26 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:4: error: invalid escape character
+    Array[String] args = "\Anjleen.scala"
+                           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:42:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:26 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:40 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:41 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:43 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:4: error: unclosed string interpolation
+    Array[String] args = ("Anjleen"scala"
+                                         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:42:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:43 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:4: error: unclosed string interpolation
+    Array[String] args = ("Anjleen",scala"
+                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:42:48 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:48 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:4: error: unclosed string literal
+    Array[String] args = ("Anjleen",'scala"
+                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:42:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:51 ERROR Failed to tokenize input for semantic tokens for D:\VIT Bhopal\VS Code\Scala\Found.scala
+scala.meta.tokenizers.TokenizeException: <input>:4: error: unclosed string interpolation
+    Array[String] args = ("Anjleen",scala"
+                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2023.12.28 12:42:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:42:54 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:25 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\arth.scala
+2023.12.28 12:43:27 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Array_Test.scala
+2023.12.28 12:43:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:51 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:58 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:43:59 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:01 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Found.scala
+2023.12.28 12:44:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:10 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:14 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:15 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:53 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:55 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:44:57 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:02 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:03 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:07 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:08 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:11 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:28 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:29 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:30 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:32 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:36 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:42 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:43 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:52 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:45:56 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:00 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:01 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:13 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:17 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:31 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:34 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:35 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:37 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:39 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:46:38 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Found.scala
+2023.12.28 12:53:33 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Scope.scala
+2023.12.28 12:53:33 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Scope.scala
+2023.12.28 12:53:34 WARN  Could not find semantic tokens for: file:///D:/VIT%20Bhopal/VS%20Code/Scala/Scope.scala
+2023.12.28 12:53:49 WARN  no build target for: D:\VIT Bhopal\VS Code\Scala\Scope.scala
+2023.12.28 12:55:01 INFO  Shutting down server
+2023.12.28 12:55:01 INFO  shutting down Metals
+2023.12.28 12:55:01 INFO  Exiting server
+2024.01.03 11:54:51 INFO  Started: Metals version 1.2.0 in folders 'D:\VIT Bhopal\VS Code\Scala' for client Visual Studio Code 1.85.1.
+2024.01.03 11:54:55 WARN  No build session currently active to reload.
+2024.01.03 11:54:55 INFO  Attempting to connect to the build server...
+2024.01.03 11:54:55 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2024.01.03 11:54:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/Tuple.scala
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/IArray.scala
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/runtime/$throws.scala
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/reflect/Typeable.scala
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Jan 03, 2024 11:54:55 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/quoted/Quotes.scala
+Jan 03, 2024 11:54:56 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Jan 03, 2024 11:54:56 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/package.scala
+Jan 03, 2024 11:54:56 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: null
+Jan 03, 2024 11:54:56 AM scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputVirtual filename
+WARNING: Illegal char <:> at index 3: jar:file:///C:/Users/ANJLEEN%2520TIRKEY/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1-sources.jar!/scala/compiletime/testing/package.scala
+2024.01.03 11:54:57 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.01.03 11:54:57 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.01.03 11:54:57 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.01.03 11:54:59 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.01.03 11:55:00 INFO  no build target found for D:\VIT Bhopal\VS Code\Scala\Scope.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.03 11:55:05 INFO  BSP server: Starting compilation server
+2024.01.03 11:55:46 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.01.03 11:55:46 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1704263146-4634763549838333116.log'
+2024.01.03 11:55:46 INFO  BSP server: Running
+2024.01.03 11:55:46 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2024.01.03 11:55:46 INFO  BSP server: might give more details.
+2024.01.03 11:55:55 ERROR Timeout waiting for 'build/initialize' response
+2024.01.03 11:55:55 WARN  Retrying connection to the build server scala-cli
+2024.01.03 11:55:55 INFO  Running BSP server List(C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\VIT Bhopal\VS Code\Scala\.scala-build\ide-options-v2.json, D:\VIT Bhopal\VS Code\Scala)
+2024.01.03 11:55:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\VIT Bhopal\VS Code\Scala\.metals\bsp.trace.json or C:\Users\ANJLEEN TIRKEY\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.01.03 11:55:57 INFO  BSP server: Starting compilation server
+2024.01.03 11:56:35 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.01.03 11:56:35 INFO  BSP server: For more details, please see 'D:\VIT Bhopal\VS Code\Scala\.scala-build\stacktraces\1704263194-3007664164230141591.log'
+2024.01.03 11:56:35 INFO  BSP server: Running
+2024.01.03 11:56:35 INFO  BSP server:   C:\Users\ANJLEEN TIRKEY\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2024.01.03 11:56:35 INFO  BSP server: might give more details.
+2024.01.03 11:56:37 INFO  Shutting down server
+2024.01.03 11:56:37 INFO  shutting down Metals
+2024.01.03 11:56:37 INFO  Exiting server
